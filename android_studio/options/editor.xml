@@ -1,0 +1,74 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="selectAutopopupSuggestionsByChars" value="true" />
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <option name="SELECT_AUTOPOPUP_SUGGESTIONS_BY_CHARS" value="true" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+  </component>
+  <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="inheritors" value="Default" />
+        <entry key="problems" value="Default" />
+        <entry key="references" value="Default" />
+        <entry key="vcs.code.vision" value="Default" />
+      </map>
+    </option>
+  </component>
+  <component name="DeclarativeInlayHintsSettings">
+    <option name="providerIdToEnabled">
+      <map>
+        <entry key="java.implicit.types" value="true" />
+        <entry key="java.method.chains" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="Groovy" value="true" />
+        <entry key="HTML" value="true" />
+        <entry key="JAVA" value="true" />
+        <entry key="JSON" value="true" />
+        <entry key="Markdown" value="true" />
+        <entry key="ObjectiveC" value="true" />
+        <entry key="XHTML" value="true" />
+        <entry key="XML" value="true" />
+        <entry key="kotlin" value="true" />
+        <entry key="protobuf" value="true" />
+        <entry key="yaml" value="true" />
+      </map>
+    </option>
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="ENABLE_RENDERED_DOC" value="true" />
+    <option name="USE_EDITOR_FONT_IN_INLAYS" value="true" />
+    <option name="IS_DND_ENABLED" value="false" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="" />
+    <settingsMapElement>
+      <ObjectiveC.oc.type.hints>
+        <ClionClangTypeHintSettings>
+          <option name="showObviousTypes" value="true" />
+        </ClionClangTypeHintSettings>
+      </ObjectiveC.oc.type.hints>
+      <kotlin.kotlin.references.types.hints>
+        <Settings>
+          <option name="functionReturnType" value="true" />
+          <option name="localVariableType" value="true" />
+          <option name="parameterType" value="true" />
+          <option name="propertyType" value="true" />
+        </Settings>
+      </kotlin.kotlin.references.types.hints>
+      <JAVA.annotation.hints>
+        <Settings>
+          <option name="showInferred" value="true" />
+        </Settings>
+      </JAVA.annotation.hints>
+    </settingsMapElement>
+  </component>
+</application>
