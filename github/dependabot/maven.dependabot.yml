@@ -1,0 +1,12 @@
+updates:
+  - package-ecosystem: "maven"
+    commit-message:
+      prefix: "Maven"
+    directory: "/" 
+    schedule:
+      day: "saturday"
+      interval: "weekly"
+      time: "03:00"
+    versioning-strategy: auto
+    
+version: 2

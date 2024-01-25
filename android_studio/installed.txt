@@ -1,0 +1,14 @@
+com.intellij.ideolog
+com.redhat.devtools.intellij.telemetry
+com.jetbrains.webstorm.web-assembly-plugin
+Dart
+com.intellij.lang.jsgraphql
+idea.plugin.protoeditor
+name.kropp.intellij.makefile
+com.redhat.devtools.intellij.kubernetes
+Docker
+com.redhat.devtools.intellij.knative
+com.jetbrains.kmm
+com.google.d2c.androidstudio.plugin
+org.jetbrains.compose.desktop.ide
+io.flutter

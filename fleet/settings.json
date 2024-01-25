@@ -1,0 +1,92 @@
+{
+    "editor.alwaysShowHorizontalScrollbar": true,
+    "editor.formatOnSave": true,
+    "editor.showFloatingDebugPanel": true,
+    "editor.softWrapEnabled": true,
+    "fus.sendAllowed": false,
+    "go.roots": [
+        {
+            "path": "/usr/bin/go",
+            "srcDir": "/usr/bin/go/src"
+        }
+    ],
+    "plugins": [
+        {
+            "type": "remove",
+            "pluginName": "fleet.ai"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.aiCompletion"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.dotnet"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.go.ai"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.java.ai"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.javascript.ai"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.kotlin.ai"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.php"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.python"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.python.ai"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.rust"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.rust.ai"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.space"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.spring.boot"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.svelte"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.tailwindcss"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.vim"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.vue"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.wsl"
+        }
+    ],
+    "showShortcuts": true
+}

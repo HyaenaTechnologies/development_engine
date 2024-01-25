@@ -1,0 +1,12 @@
+updates:
+  - package-ecosystem: "gradle"
+    commit-message:
+      prefix: "Gradle"
+    directory: "/" 
+    schedule:
+      day: "saturday"
+      interval: "weekly"
+      time: "03:00"
+    versioning-strategy: auto
+    
+version: 2
