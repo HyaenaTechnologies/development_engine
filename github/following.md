@@ -1,7 +1,7 @@
 # Following
 
 - https://github.com/dependabot
-- https://github.com/mozilla
+- https://github.com/github-linguist
 - https://github.com/traefik
 - https://github.com/github
 - https://github.com/swift-server
