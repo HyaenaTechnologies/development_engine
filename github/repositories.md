@@ -4,7 +4,7 @@
 - https://github.com/ory/oathkeeper
 - https://github.com/ory/hydra
 - https://github.com/ory/kratos
-- https://github.com/ory/cli
+- https://github.com/itchio/itch-setup
 - https://github.com/zitadel/zitadel
 - https://github.com/encoredev/emissary
 - https://github.com/encoredev/encore
