@@ -24,17 +24,6 @@ jobs:
         java-version: '17'
         distribution: 'microsoft'
         cache: gradle
-        cache-dependency-path: | # optional
-          sub-project/**/*.gradle*
-          sub-project/**/*.gradle.kts*
-          sub-project/**/gradle-wrapper.properties
-          sub-project/gradle/*.versions.toml
-          sub-project/buildSrc/**/Dependencies.kt
-          sub-project/buildSrc/**/Versions.kt
-          sub-project/**/versions.properties
-        
-    - name: Set up Dependency Submission
-      uses: advanced-security/maven-dependency-submission-action@v3.0.3
 
     - name: Set up Gradle
       uses: gradle/gradle-build-action@v2.11.1
