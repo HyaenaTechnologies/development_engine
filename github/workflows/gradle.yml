@@ -22,10 +22,19 @@ jobs:
       uses: actions/setup-java@v4.0.0
       with:
         java-version: '17'
-        distribution: 'temurin'
+        distribution: 'microsoft'
         cache: gradle
+        cache-dependency-path: | # optional
+          sub-project/**/*.gradle*
+          sub-project/**/*.gradle.kts*
+          sub-project/**/gradle-wrapper.properties
+          sub-project/gradle/*.versions.toml
+          sub-project/buildSrc/**/Dependencies.kt
+          sub-project/buildSrc/**/Versions.kt
+          sub-project/**/versions.properties
 
     - name: Set up Gradle
       uses: gradle/gradle-build-action@v2.11.1
       with:
         arguments: build
+        gradle-version: 8.5

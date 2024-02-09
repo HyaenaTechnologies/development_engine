@@ -1,5 +1,19 @@
 # Stars
 
+- https://github.com/ory/cli
+- https://github.com/itchio/itch
+- https://github.com/zitadel/zitadel-go
+- https://github.com/zitadel/oidc
+- https://github.com/zitadel/saml
+- https://github.com/authzed/spicedb
+- https://github.com/zitadel/zitadel
+- https://github.com/ory/kratos
+- https://github.com/ory/keto
+- https://github.com/ory/hydra
+- https://github.com/authzed/zed
+- https://github.com/ory/oathkeeper
+- https://github.com/itchio/butler
+- https://github.com/itchio/itch-setup
 - https://github.com/istio/istio
 - https://github.com/istio/client-go
 - https://github.com/traefik/traefik

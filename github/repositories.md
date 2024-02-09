@@ -1,18 +1,10 @@
 # Repositories
 
-- https://github.com/ory/keto
-- https://github.com/ory/oathkeeper
-- https://github.com/ory/hydra
-- https://github.com/ory/kratos
-- https://github.com/itchio/itch-setup
-- https://github.com/zitadel/zitadel
 - https://github.com/encoredev/emissary
 - https://github.com/encoredev/encore
-- https://github.com/authzed/zed
 - https://github.com/kubefirst/kubefirst
 - https://github.com/kubeshop/tracetest
 - https://github.com/kubeshop/botkube
-- https://github.com/authzed/spicedb
 - https://github.com/dagger/dagger
 - https://github.com/kubeshop/testkube
 - https://github.com/pulumi/pulumi
