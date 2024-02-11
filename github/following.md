@@ -25,7 +25,7 @@
 - https://github.com/chromium
 - https://github.com/apache
 - https://github.com/yaml
-- https://github.com/gradle
+- https://github.com/bazelbuild
 - https://github.com/advanced-security
 - https://github.com/mozilla-mobile
 - https://github.com/arduino

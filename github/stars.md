@@ -1,5 +1,12 @@
 # Stars
 
+- https://github.com/bazelbuild/bazel
+- https://github.com/bazelbuild/setup-bazelisk
+- https://github.com/bazelbuild/bazel-toolchains
+- https://github.com/bazelbuild/bazel-watcher
+- https://github.com/bazelbuild/buildtools
+- https://github.com/bazelbuild/bazel-gazelle
+- https://github.com/bazelbuild/bazelisk
 - https://github.com/ory/cli
 - https://github.com/itchio/itch
 - https://github.com/zitadel/zitadel-go
@@ -26,7 +33,6 @@
 - https://github.com/hashicorp/hil
 - https://github.com/actions/setup-java
 - https://github.com/advanced-security/maven-dependency-submission-action
-- https://github.com/gradle/gradle-build-action
 - https://github.com/apple/swift-distributed-tracing-extras
 - https://github.com/apple/swift-metrics-extras
 - https://github.com/apple/swift-service-context
