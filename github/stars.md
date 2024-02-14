@@ -1,5 +1,7 @@
 # Stars
 
+- https://github.com/google/starlark-go
+- https://github.com/bazelbuild/bazel-central-registry
 - https://github.com/bazelbuild/platforms
 - https://github.com/bazelbuild/rules_testing
 - https://github.com/bazelbuild/rules_fuzzing
