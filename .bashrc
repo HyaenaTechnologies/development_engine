@@ -12,7 +12,6 @@ export PATH=$PATH:/usr/bin/flutter/bin/cache/dart-sdk/bin
 export PATH=$PATH:/usr/bin/go/bin
 export PATH=$PATH:/usr/bin/hyaena_technologies
 export PATH=$PATH:/usr/bin/kotlin/bazel_build
-export PATH=$PATH:/usr/bin/kotlin/gradle/bin
 export PATH=$PATH:/usr/bin/kotlin/jbr/bin
 export PATH=$PATH:/usr/bin/kotlin/kotlinc/bin
 export PATH=$PATH:/usr/bin/kotlin/kotlin-native/bin
