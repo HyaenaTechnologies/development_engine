@@ -7,7 +7,7 @@
 - https://github.com/bazelbuild/rules_fuzzing
 - https://github.com/bazelbuild/rules_license
 - https://github.com/bazelbuild/rules_sass
-- https://github.com/bazelbuild/tools_android
+- https://github.com/bazelbuild/rules_jvm_external
 - https://github.com/bazelbuild/remote-apis
 - https://github.com/bazelbuild/rules_android_ndk
 - https://github.com/bazelbuild/starlark
