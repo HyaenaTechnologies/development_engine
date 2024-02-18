@@ -1,5 +1,7 @@
 # Stars
 
+- https://github.com/actions/cache
+- https://github.com/apache/maven-mvnd
 - https://github.com/google/starlark-go
 - https://github.com/bazelbuild/bazel-central-registry
 - https://github.com/bazelbuild/platforms

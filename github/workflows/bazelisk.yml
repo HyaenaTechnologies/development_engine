@@ -1,0 +1,31 @@
+name: Android
+
+on:
+  push:
+    branches: [ "main" ]
+    
+  pull_request:
+    branches: [ "main" ]
+    
+  schedule:
+  - cron: "30 03 * * 1-5"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    
+    - name: Checkout Repository
+      uses: actions/checkout@v4.1.1
+      
+    - name: set up Bazelisk
+      uses: bazelbuild/setup-bazelisk@v3.0.0
+
+    - name: Set Up Cache  # Optional
+      uses: actions/cache@v4.0.0
+      with:
+        path: "~/.cache/bazel"
+        key: bazel
+
+    - name: Build Package
+      run: bazel build //...

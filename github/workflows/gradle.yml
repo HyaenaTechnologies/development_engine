@@ -37,4 +37,4 @@ jobs:
       uses: gradle/gradle-build-action@v3.1.0
       with:
         arguments: clean build --debug --info --scan --stacktrace
-        gradle-version: 8.5
+        gradle-version: 8.6
