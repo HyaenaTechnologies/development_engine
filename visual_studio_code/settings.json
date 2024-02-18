@@ -34,7 +34,6 @@
 	"go.goroot": "/usr/bin/go",
 	"go.toolsGopath": "/usr/bin/go/pkg/tool",
 	"go.toolsManagement.autoUpdate": true,
-	"jdk.jdkhome": "/usr/bin/kotlin/jbr",
 	"java.jdt.ls.java.home": "/usr/bin/kotlin/jbr",
 	"makefile.makePath": "/usr/bin",
 	"maven.executable.path": "/usr/bin/kotlin/maven",
