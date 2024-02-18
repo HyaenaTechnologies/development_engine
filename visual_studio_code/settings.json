@@ -34,10 +34,13 @@
 	"go.goroot": "/usr/bin/go",
 	"go.toolsGopath": "/usr/bin/go/pkg/tool",
 	"go.toolsManagement.autoUpdate": true,
+	"jdk.jdkhome": "/usr/bin/kotlin/jbr",
+	"java.jdt.ls.java.home": "/usr/bin/kotlin/jbr",
 	"makefile.makePath": "/usr/bin",
+	"maven.executable.path": "/usr/bin/kotlin/maven",
 	"security.workspace.trust.startupPrompt": "always",
 	"swift.path": "/usr/bin/swift/usr/bin",
 	"telemetry.telemetryLevel": "off",
 	"vscode-kubernetes.kubectl-path": "/usr/bin/hyaena_technologies",
-	"vscode-kubernetes.minikube-path": "/usr/bin/hyaena_technologies"
+	"vscode-kubernetes.minikube-path": "/usr/bin/hyaena_technologies",
 }
