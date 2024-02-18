@@ -16,6 +16,7 @@ export PATH=$PATH:/usr/bin/kotlin/jbr/bin
 export PATH=$PATH:/usr/bin/kotlin/kotlinc/bin
 export PATH=$PATH:/usr/bin/kotlin/kotlin-native/bin
 export PATH=$PATH:/usr/bin/kotlin/maven/bin
+export PATH=$PATH:/usr/bin/kotlin/maven/mvnd/bin
 export PATH=$PATH:/usr/bin/swift/usr/bin
 
 # Uncomment the following line if you don't like systemctl's auto-paging feature:
