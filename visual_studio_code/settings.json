@@ -1,4 +1,8 @@
 {
+	"bazel.buildifierExecutable": "/usr/bin/kotlin/bazel_build",
+	"bazel.buildifierFixOnFormat": true,
+	"bazel.enableCodeLens": true,
+	"bazel.executable": "/usr/bin/kotlin/bazel_build",
 	"clangd.path": "/usr/bin/swift/usr/bin/clangd",
 	"cloudcode.duetAI.enable": false,
 	"cloudcode.enableTelemetry": false,
