@@ -1,12 +1,25 @@
 {
     "configurations": [
         {
-            "type": "go",
-            "name": "development_engine",
-            "goExecPath": "/usr/bin/go/bin/go",
+            "name": "Run Bash",
+            "program": "usr/bin/bash",
+            "type": "command"
+        },
+        {
+            "args": [
+                "build"
+            ],
+            "name": "Bazel Build",
+            "program": "usr/bin/koltin/bazel_build/bazel",
+            "type": "command"
+        },
+        {
             "buildParams": [
                 "$USER_HOME$/FleetProjects/development_engine/lib/main.go"
-            ]
+            ],
+            "goExecPath": "/usr/bin/go/bin/go",
+            "name": "development_engine",
+            "type": "go"
         }
     ]
 }
