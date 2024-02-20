@@ -41,6 +41,8 @@
 	"java.jdt.ls.java.home": "/usr/bin/kotlin/jbr",
 	"makefile.makePath": "/usr/bin",
 	"maven.executable.path": "/usr/bin/kotlin/maven/bin",
+	"maven.pomfile.autoUpdateEffectivePOM": true,
+	"maven.pomfile.prefetchEffectivePom": true,
 	"security.workspace.trust.startupPrompt": "always",
 	"swift.path": "/usr/bin/swift/usr/bin",
 	"telemetry.telemetryLevel": "off",
