@@ -2,7 +2,7 @@
     "configurations": [
         {
             "name": "Run Bash",
-            "program": "usr/bin/bash",
+            "program": "/usr/bin/bash",
             "type": "command"
         },
         {
@@ -10,7 +10,7 @@
                 "build"
             ],
             "name": "Bazel Build",
-            "program": "usr/bin/koltin/bazel_build/bazel",
+            "program": "/usr/bin/kotlin/bazel_build/bazel",
             "type": "command"
         },
         {
