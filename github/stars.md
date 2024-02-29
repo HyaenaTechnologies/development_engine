@@ -1,5 +1,7 @@
 # Stars
 
+- https://github.com/swift-server/swiftly
+- https://github.com/apple/pkl
 - https://github.com/actions/cache
 - https://github.com/apache/maven-mvnd
 - https://github.com/google/starlark-go
