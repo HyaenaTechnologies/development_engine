@@ -40,6 +40,8 @@
 	"go.toolsManagement.autoUpdate": true,
 	"java.configuration.updateBuildConfiguration": "automatic",
 	"java.jdt.ls.java.home": "/usr/bin/kotlin/jbr",
+	"lldb.library": "/usr/bin/swift/usr/lib/liblldb.so",
+	"lldb.launch.expressions": "native",
 	"makefile.makePath": "/usr/bin",
 	"maven.executable.path": "/usr/bin/kotlin/maven/bin",
 	"maven.pomfile.autoUpdateEffectivePOM": true,
