@@ -4,7 +4,6 @@
 - https://github.com/linagora/linshare-mobile-flutter-app
 - https://github.com/element-hq/element-x-android
 - https://github.com/wireapp/wire-android
-- https://github.com/encoredev/emissary
 - https://github.com/encoredev/encore
 - https://github.com/kubefirst/kubefirst
 - https://github.com/kubeshop/tracetest
@@ -20,7 +19,6 @@
 - https://github.com/bytebase/bytebase
 - https://github.com/grafana/mimir
 - https://github.com/ubuntu/app-center
-- https://github.com/ente-io/auth
 - https://github.com/commons-app/apps-android-commons
 - https://github.com/canonical/ubuntu-desktop-installer
 - https://github.com/duckduckgo/Android
