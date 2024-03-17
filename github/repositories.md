@@ -1,5 +1,7 @@
 # Repositories
 
+- https://github.com/element-hq/element-x-android
+- https://github.com/wireapp/wire-android
 - https://github.com/encoredev/emissary
 - https://github.com/encoredev/encore
 - https://github.com/kubefirst/kubefirst
