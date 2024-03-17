@@ -20,7 +20,6 @@
 - https://github.com/ubuntu/app-center
 - https://github.com/ente-io/auth
 - https://github.com/commons-app/apps-android-commons
-- https://github.com/getodk/collect
 - https://github.com/canonical/ubuntu-desktop-installer
 - https://github.com/duckduckgo/Android
 - https://github.com/mozilla-mobile/firefox-android
@@ -44,7 +43,6 @@
 - https://github.com/signalapp/Signal-Android
 - https://github.com/nextcloud/talk-android
 - https://github.com/DrKLO/Telegram
-- https://github.com/TGX-Android/Telegram-X
 - https://github.com/thunderbird/thunderbird-android
 - https://github.com/widgetbook/widgetbook
 - https://github.com/wikimedia/apps-android-wikipedia

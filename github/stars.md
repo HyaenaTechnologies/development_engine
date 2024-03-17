@@ -1,5 +1,7 @@
 # Stars
 
+- https://github.com/apple/pkl-swift
+- https://github.com/apple/pkl-go
 - https://github.com/swift-server/swiftly
 - https://github.com/apple/pkl
 - https://github.com/actions/cache
