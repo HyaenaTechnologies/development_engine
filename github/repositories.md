@@ -4,6 +4,7 @@
 - https://github.com/linagora/linshare-mobile-flutter-app
 - https://github.com/element-hq/element-x-android
 - https://github.com/wireapp/wire-android
+- https://github.com/encoredev/emissary
 - https://github.com/encoredev/encore
 - https://github.com/kubefirst/kubefirst
 - https://github.com/kubeshop/tracetest
@@ -37,7 +38,6 @@
 - https://github.com/nextcloud/notes-android
 - https://github.com/openhab/openhab-android
 - https://github.com/owncloud/android
-- https://github.com/ente-io/photos-app
 - https://github.com/Automattic/pocket-casts-android
 - https://github.com/mozilla-mobile/reference-browser
 - https://github.com/signalapp/Signal-Android
