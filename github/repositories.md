@@ -4,7 +4,7 @@
 - https://github.com/linagora/linshare-mobile-flutter-app
 - https://github.com/element-hq/element-x-android
 - https://github.com/wireapp/wire-android
-- https://github.com/encoredev/emissary
+- https://github.com/tailscale/tailscale-android
 - https://github.com/encoredev/encore
 - https://github.com/kubefirst/kubefirst
 - https://github.com/kubeshop/tracetest
