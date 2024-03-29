@@ -53,7 +53,6 @@
 - https://github.com/istio/client-go
 - https://github.com/traefik/traefik
 - https://github.com/apache/maven
-- https://github.com/hashicorp/packer
 - https://github.com/microsoft/WindowsAppSDK
 - https://github.com/minio/minio-go
 - https://github.com/minio/mc
@@ -111,7 +110,6 @@
 - https://github.com/dart-lang/pub_semver
 - https://github.com/dart-lang/async
 - https://github.com/dart-lang/io
-- https://github.com/dart-lang/ffi
 - https://github.com/dart-lang/convert
 - https://github.com/dart-lang/collection
 - https://github.com/dart-lang/web
