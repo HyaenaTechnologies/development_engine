@@ -11,6 +11,7 @@
 - https://maven.google.com/
 - https://developer.android.com/reference
 - https://swift.org/
+- https://swiftpackageindex.com/
 - https://developer.apple.com/documentation/technologies
 - https://developer.mozilla.org/en-US/docs/Web/HTTP
 - https://m3.material.io/components
