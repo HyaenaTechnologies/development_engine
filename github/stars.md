@@ -1,5 +1,6 @@
 # Stars
 
+- https://github.com/apple/pkl-pantry
 - https://github.com/apple/pkl-swift
 - https://github.com/apple/pkl-go
 - https://github.com/swift-server/swiftly
@@ -185,7 +186,6 @@
 - https://github.com/google/skia
 - https://github.com/Kotlin/kotlinx-atomicfu
 - https://github.com/Kotlin/kotlinx-kover
-- https://github.com/Kotlin/kotlinx-knit
 - https://github.com/Kotlin/kotlinx.collections.immutable
 - https://github.com/Kotlin/kdoctor
 - https://github.com/Kotlin/kotlinx-cli
