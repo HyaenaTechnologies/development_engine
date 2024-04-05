@@ -1,5 +1,7 @@
 # Stars
 
+- https://github.com/apple/pkl-k8s
+- https://github.com/material-foundation/material-color-utilities
 - https://github.com/apple/pkl-pantry
 - https://github.com/apple/pkl-swift
 - https://github.com/apple/pkl-go
