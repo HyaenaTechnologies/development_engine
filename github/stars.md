@@ -1,5 +1,9 @@
 # Stars
 
+- https://github.com/golang/gofrontend
+- https://github.com/Kotlin/kotlin-spec 
+- https://github.com/dart-lang/language
+- https://github.com/apple/pkl-k8s
 - https://github.com/material-foundation/material-color-utilities
 - https://github.com/apple/pkl-pantry
 - https://github.com/apple/pkl-swift
