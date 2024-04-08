@@ -1,6 +1,5 @@
 # Stars
 
-- https://github.com/apple/pkl-k8s
 - https://github.com/material-foundation/material-color-utilities
 - https://github.com/apple/pkl-pantry
 - https://github.com/apple/pkl-swift
@@ -15,7 +14,6 @@
 - https://github.com/bazelbuild/rules_testing
 - https://github.com/bazelbuild/rules_fuzzing
 - https://github.com/bazelbuild/rules_license
-- https://github.com/bazelbuild/rules_closure
 - https://github.com/bazelbuild/rules_jvm_external
 - https://github.com/bazelbuild/remote-apis
 - https://github.com/bazelbuild/rules_android_ndk
