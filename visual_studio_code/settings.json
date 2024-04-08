@@ -4,8 +4,6 @@
 	"bazel.enableCodeLens": true,
 	"bazel.executable": "bazel",
 	"clangd.path": "/usr/bin/swift/usr/bin/clangd",
-	"cloudcode.duetAI.enable": false,
-	"cloudcode.enableTelemetry": false,
 	"cmake.cmakePath": "/usr/bin",
 	"[dart]": {
 		"editor.formatOnSave": true,
@@ -45,5 +43,6 @@
 	"swift.path": "/usr/bin/swift/usr/bin",
 	"telemetry.telemetryLevel": "off",
 	"vscode-kubernetes.kubectl-path": "/usr/bin/hyaena_technologies",
-	"vscode-kubernetes.minikube-path": "/usr/bin/hyaena_technologies"
+	"vscode-kubernetes.minikube-path": "/usr/bin/hyaena_technologies",
+	"githubPullRequests.fileListLayout": "tree"
 }
