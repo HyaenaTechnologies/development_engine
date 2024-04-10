@@ -3,7 +3,6 @@
 - https://github.com/arduino/arduino-fwuploader
 - https://github.com/arduino/arduino-lint
 - https://github.com/arduino/arduino-language-server
-- https://github.com/arduino/arduino-builder
 - https://github.com/golang/gofrontend
 - https://github.com/Kotlin/kotlin-spec 
 - https://github.com/dart-lang/language
@@ -119,7 +118,6 @@
 - https://github.com/dart-lang/web
 - https://github.com/dart-lang/native
 - https://github.com/dart-lang/tools
-- https://github.com/JetBrains/intellij-community
 - https://github.com/hashicorp/boundary
 - https://github.com/hashicorp/vault
 - https://github.com/hashicorp/consul
