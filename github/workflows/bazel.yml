@@ -1,4 +1,4 @@
-name: Android
+name: Bazel
 
 on:
   push:
@@ -17,15 +17,22 @@ jobs:
     
     - name: Checkout Repository
       uses: actions/checkout@v4.1.2
-      
-    - name: set up Bazelisk
-      uses: bazelbuild/setup-bazelisk@v3.0.0
 
     - name: Set Up Cache  # Optional
       uses: actions/cache@v4.0.2
       with:
         path: "~/.cache/bazel"
         key: bazel
+      
+    - name: set up Bazelisk
+      uses: bazel-contrib/setup-bazel@0.8.1
+      with:
+        # Avoid downloading Bazel every time.
+        bazelisk-cache: true
+        # Store build cache per workflow.
+        disk-cache: ${{ github.workflow }}
+        # Share repository cache between workflows.
+        repository-cache: true
 
     - name: Build Package
       run: bazel build //...

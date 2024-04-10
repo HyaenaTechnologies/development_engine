@@ -1,5 +1,7 @@
 # Following
 
+- https://github.com/bazel-contrib
+- https://github.com/gradle
 - https://github.com/zitadel
 - https://github.com/authzed
 - https://github.com/ory

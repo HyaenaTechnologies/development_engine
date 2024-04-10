@@ -1,5 +1,9 @@
 # Stars
 
+- https://github.com/arduino/arduino-fwuploader
+- https://github.com/arduino/arduino-lint
+- https://github.com/arduino/arduino-language-server
+- https://github.com/arduino/arduino-builder
 - https://github.com/golang/gofrontend
 - https://github.com/Kotlin/kotlin-spec 
 - https://github.com/dart-lang/language
@@ -245,8 +249,6 @@
 - https://github.com/containerd/containerd
 - https://github.com/kubernetes/kubernetes
 - https://github.com/torvalds/linux
-- https://github.com/microsoft/vscode
-- https://github.com/arduino/arduino-ide
 - https://github.com/golang/go
 - https://github.com/dart-lang/sdk
 - https://github.com/flutter/flutter
