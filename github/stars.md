@@ -10,7 +10,6 @@
 - https://github.com/apple/pkl-go
 - https://github.com/swift-server/swiftly
 - https://github.com/apple/pkl
-- https://github.com/actions/cache
 - https://github.com/apache/maven-mvnd
 - https://github.com/google/starlark-go
 - https://github.com/bazelbuild/bazel-central-registry
@@ -35,13 +34,11 @@
 - https://github.com/bazelbuild/rules_cc
 - https://github.com/bazelbuild/rules_android
 - https://github.com/bazelbuild/bazel
-- https://github.com/bazelbuild/setup-bazelisk
 - https://github.com/bazelbuild/bazel-watcher
 - https://github.com/bazelbuild/buildtools
 - https://github.com/bazelbuild/bazel-gazelle
 - https://github.com/bazelbuild/bazelisk
 - https://github.com/ory/cli
-- https://github.com/itchio/itch
 - https://github.com/zitadel/zitadel-go
 - https://github.com/zitadel/oidc
 - https://github.com/zitadel/saml
@@ -63,8 +60,6 @@
 - https://github.com/minio/mc
 - https://github.com/minio/minio
 - https://github.com/hashicorp/hil
-- https://github.com/actions/setup-java
-- https://github.com/advanced-security/maven-dependency-submission-action
 - https://github.com/apple/swift-distributed-tracing-extras
 - https://github.com/apple/swift-metrics-extras
 - https://github.com/apple/swift-service-context
@@ -134,7 +129,6 @@
 - https://github.com/dgraph-io/dgraph
 - https://github.com/weaviate/weaviate-go-client
 - https://github.com/weaviate/weaviate
-- https://github.com/actions/checkout
 - https://github.com/containerd/nerdctl
 - https://github.com/moby/swarmkit
 - https://github.com/moby/buildkit
@@ -221,7 +215,6 @@
 - https://github.com/dart-lang/http
 - https://github.com/material-components/material-components-android
 - https://github.com/dart-lang/setup-dart
-- https://github.com/actions/setup-go
 - https://github.com/google/accompanist
 - https://github.com/JetBrains/kotlin
 - https://github.com/dart-lang/args
@@ -251,7 +244,6 @@
 - https://github.com/opencontainers/runc
 - https://github.com/containerd/containerd
 - https://github.com/kubernetes/kubernetes
-- https://github.com/desktop/desktop
 - https://github.com/torvalds/linux
 - https://github.com/microsoft/vscode
 - https://github.com/arduino/arduino-ide
