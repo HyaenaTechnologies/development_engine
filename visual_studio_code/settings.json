@@ -31,6 +31,7 @@
 	"git.timeline.showUncommitted": true,
 	"git.verboseCommit": true,
 	"githubPullRequests.defaultCreateOption": "createDraft",
+	"githubPullRequests.fileListLayout": "tree",
 	"githubPullRequests.notifications": "pullRequests",
 	"githubPullRequests.showPullRequestNumberInTree": true,
 	"go.goroot": "/usr/bin/go",
@@ -43,6 +44,5 @@
 	"swift.path": "/usr/bin/swift/usr/bin",
 	"telemetry.telemetryLevel": "off",
 	"vscode-kubernetes.kubectl-path": "/usr/bin/hyaena_technologies",
-	"vscode-kubernetes.minikube-path": "/usr/bin/hyaena_technologies",
-	"githubPullRequests.fileListLayout": "tree"
+	"vscode-kubernetes.minikube-path": "/usr/bin/hyaena_technologies"
 }
