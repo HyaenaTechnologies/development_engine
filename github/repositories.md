@@ -1,22 +1,10 @@
 # Repositories
 
-- https://github.com/traefik/traefik
 - https://github.com/linagora/tmail-flutter
 - https://github.com/linagora/linshare-mobile-flutter-app
 - https://github.com/element-hq/element-x-android
 - https://github.com/wireapp/wire-android
 - https://github.com/tailscale/tailscale-android
-- https://github.com/encoredev/encore
-- https://github.com/kubefirst/kubefirst
-- https://github.com/kubeshop/tracetest
-- https://github.com/kubeshop/botkube
-- https://github.com/dagger/dagger
-- https://github.com/kubeshop/testkube
-- https://github.com/pulumi/pulumi
-- https://github.com/pachyderm/pachyderm
-- https://github.com/TykTechnologies/tyk
-- https://github.com/okteto/okteto
-- https://github.com/bytebase/bytebase
 - https://github.com/ubuntu/app-center
 - https://github.com/commons-app/apps-android-commons
 - https://github.com/canonical/ubuntu-desktop-installer
