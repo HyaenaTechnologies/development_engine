@@ -22,9 +22,7 @@
 - https://github.com/google/starlark-go
 - https://github.com/bazelbuild/bazel-central-registry
 - https://github.com/bazelbuild/platforms
-- https://github.com/bazelbuild/rules_testing
-- https://github.com/bazelbuild/rules_fuzzing
-- https://github.com/bazelbuild/rules_license
+- https://github.com/bazelbuild/rules_platform
 - https://github.com/bazelbuild/rules_jvm_external
 - https://github.com/bazelbuild/remote-apis
 - https://github.com/bazelbuild/rules_android_ndk
@@ -56,8 +54,6 @@
 - https://github.com/ory/hydra
 - https://github.com/authzed/zed
 - https://github.com/ory/oathkeeper
-- https://github.com/istio/istio
-- https://github.com/istio/client-go
 - https://github.com/etcd-io/etcd
 - https://github.com/apache/maven
 - https://github.com/microsoft/WindowsAppSDK

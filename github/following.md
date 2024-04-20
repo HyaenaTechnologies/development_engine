@@ -13,7 +13,6 @@
 - https://github.com/github
 - https://github.com/swift-server
 - https://github.com/apple
-- https://github.com/istio
 - https://github.com/sourcegraph
 - https://github.com/minio
 - https://github.com/duckduckgo
@@ -79,4 +78,3 @@
 - https://github.com/canonical
 - https://github.com/cli
 - https://github.com/distribution
-- https://github.com/devcontainers
