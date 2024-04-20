@@ -46,7 +46,6 @@
 - https://github.com/bazelbuild/buildtools
 - https://github.com/bazelbuild/bazel-gazelle
 - https://github.com/bazelbuild/bazelisk
-- https://github.com/ory/cli
 - https://github.com/zitadel/zitadel-go
 - https://github.com/zitadel/oidc
 - https://github.com/zitadel/saml
@@ -57,8 +56,6 @@
 - https://github.com/ory/hydra
 - https://github.com/authzed/zed
 - https://github.com/ory/oathkeeper
-- https://github.com/itchio/butler
-- https://github.com/itchio/itch-setup
 - https://github.com/istio/istio
 - https://github.com/istio/client-go
 - https://github.com/etcd-io/etcd
@@ -110,7 +107,6 @@
 - https://github.com/flutter/devtools
 - https://github.com/JetBrains/kotlin-wrappers
 - https://github.com/JetBrains/JetBrainsRuntime
-- https://github.com/sourcegraph/sourcegraph
 - https://github.com/sourcegraph/src-cli
 - https://github.com/androidx/media
 - https://github.com/androidx/constraintlayout
