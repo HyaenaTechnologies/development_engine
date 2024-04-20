@@ -1,5 +1,6 @@
 # Following
 
+- https://github.com/grafana
 - https://github.com/bazel-contrib
 - https://github.com/gradle
 - https://github.com/zitadel
@@ -8,7 +9,7 @@
 - https://github.com/itchio
 - https://github.com/dependabot
 - https://github.com/github-linguist
-- https://github.com/traefik
+- https://github.com/etcd-io
 - https://github.com/github
 - https://github.com/swift-server
 - https://github.com/apple
@@ -18,7 +19,6 @@
 - https://github.com/duckduckgo
 - https://github.com/mdn
 - https://github.com/dgraph-io
-- https://github.com/weaviate
 - https://github.com/hashicorp
 - https://github.com/kubernetes-sigs
 - https://github.com/docker-library

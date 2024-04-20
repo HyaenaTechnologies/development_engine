@@ -1,5 +1,6 @@
 # Repositories
 
+- https://github.com/traefik/traefik
 - https://github.com/linagora/tmail-flutter
 - https://github.com/linagora/linshare-mobile-flutter-app
 - https://github.com/element-hq/element-x-android
@@ -12,13 +13,10 @@
 - https://github.com/dagger/dagger
 - https://github.com/kubeshop/testkube
 - https://github.com/pulumi/pulumi
-- https://github.com/grafana/tempo
 - https://github.com/pachyderm/pachyderm
 - https://github.com/TykTechnologies/tyk
-- https://github.com/grafana/loki
 - https://github.com/okteto/okteto
 - https://github.com/bytebase/bytebase
-- https://github.com/grafana/mimir
 - https://github.com/ubuntu/app-center
 - https://github.com/commons-app/apps-android-commons
 - https://github.com/canonical/ubuntu-desktop-installer

@@ -1,5 +1,10 @@
 # Stars
 
+- https://github.com/ory/ladon
+- https://github.com/ory/fosite
+- https://github.com/grafana/loki
+- https://github.com/grafana/mimir
+- https://github.com/grafana/tempo
 - https://github.com/arduino/arduino-fwuploader
 - https://github.com/arduino/arduino-lint
 - https://github.com/arduino/arduino-language-server
@@ -56,7 +61,7 @@
 - https://github.com/itchio/itch-setup
 - https://github.com/istio/istio
 - https://github.com/istio/client-go
-- https://github.com/traefik/traefik
+- https://github.com/etcd-io/etcd
 - https://github.com/apache/maven
 - https://github.com/microsoft/WindowsAppSDK
 - https://github.com/minio/minio-go
@@ -118,9 +123,6 @@
 - https://github.com/dart-lang/web
 - https://github.com/dart-lang/native
 - https://github.com/dart-lang/tools
-- https://github.com/hashicorp/boundary
-- https://github.com/hashicorp/vault
-- https://github.com/hashicorp/consul
 - https://github.com/hashicorp/nomad
 - https://github.com/notaryproject/notation-go
 - https://github.com/notaryproject/notation
@@ -129,8 +131,6 @@
 - https://github.com/dgraph-io/badger
 - https://github.com/dgraph-io/dgo
 - https://github.com/dgraph-io/dgraph
-- https://github.com/weaviate/weaviate-go-client
-- https://github.com/weaviate/weaviate
 - https://github.com/containerd/nerdctl
 - https://github.com/moby/swarmkit
 - https://github.com/moby/buildkit
