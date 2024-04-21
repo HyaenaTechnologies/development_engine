@@ -1,5 +1,6 @@
 # Stars
 
+- https://github.com/open-telemetry/opentelemetry-swift
 - https://github.com/ory/ladon
 - https://github.com/ory/fosite
 - https://github.com/grafana/loki
@@ -189,7 +190,6 @@
 - https://github.com/JetBrains/markdown
 - https://github.com/google/skia
 - https://github.com/Kotlin/kotlinx-atomicfu
-- https://github.com/Kotlin/kotlinx-kover
 - https://github.com/Kotlin/kotlinx.collections.immutable
 - https://github.com/Kotlin/kdoctor
 - https://github.com/Kotlin/kotlinx-cli
