@@ -96,6 +96,8 @@
 - https://github.com/apple/swift-metrics
 - https://github.com/apple/swift-http-types
 - https://github.com/swift-server/async-http-client
+- https://github.com/swift-server/webauthn-swift
+- https://github.com/swift-server/webauthn-swift
 - https://github.com/apple/swift-docc
 - https://github.com/apple/swift-system
 - https://github.com/apple/swift-numerics
