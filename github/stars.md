@@ -61,6 +61,16 @@
 - https://github.com/minio/mc
 - https://github.com/minio/minio
 - https://github.com/hashicorp/hil
+- https://github.com/apple/swift-syntax
+- https://github.com/apple/sourcekit-lsp
+- https://github.com/apple/swift-driver
+- https://github.com/apple/swift-sdk-generator
+- https://github.com/apple/swift-corelibs-foundation
+- https://github.com/apple/swift-corelibs-xctest
+- https://github.com/apple/swift-async-dns-resolver
+- https://github.com/apple/swift-llvm-bindings
+- https://github.com/apple/swift-nio-transport-services
+- https://github.com/apple/swift-tools-support-core
 - https://github.com/apple/swift-distributed-tracing-extras
 - https://github.com/apple/swift-metrics-extras
 - https://github.com/apple/swift-service-context
