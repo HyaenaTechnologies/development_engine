@@ -1,5 +1,6 @@
 # Stars
 
+https://github.com/apple/swift-nio-ssl
 https://github.com/apple/swift-tools-support-core
 https://github.com/open-telemetry/opentelemetry-swift
 https://github.com/swift-server/webauthn-swift
@@ -13,10 +14,7 @@ https://github.com/apple/swift-corelibs-xctest
 https://github.com/apple/swift-async-dns-resolver
 https://github.com/apple/swift-llvm-bindings
 https://github.com/apple/swift-nio-transport-services
-https://github.com/graphql/graphql-spec
 https://github.com/bazelbuild/rules_platform
-https://github.com/Kotlin/kotlin-spec
-https://github.com/dart-lang/language
 https://github.com/material-foundation/material-color-utilities
 https://github.com/apple/pkl-pantry
 https://github.com/apple/pkl-swift
