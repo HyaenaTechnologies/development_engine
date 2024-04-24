@@ -4,13 +4,11 @@
     "editor.showFloatingDebugPanel": true,
     "editor.softWrapEnabled": true,
     "fus.sendAllowed": false,
-    "go.roots": [
-        {
-            "path": "/usr/bin/go",
-            "srcDir": "/usr/bin/go/src"
-        }
-    ],
     "plugins": [
+        {
+            "type": "add",
+            "pluginName": "fleet.vim"
+        },
         {
             "type": "remove",
             "pluginName": "fleet.ai"
@@ -22,6 +20,10 @@
         {
             "type": "remove",
             "pluginName": "fleet.dotnet"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.go"
         },
         {
             "type": "remove",
@@ -77,7 +79,7 @@
         },
         {
             "type": "remove",
-            "pluginName": "fleet.vim"
+            "pluginName": "fleet.terraform"
         },
         {
             "type": "remove",
@@ -86,6 +88,12 @@
         {
             "type": "remove",
             "pluginName": "fleet.wsl"
+        }
+    ],
+    "java.runtimes": [
+        {
+            "path": "/bin/kotlin/jbr",
+            "name": "jbr_17"
         }
     ],
     "showShortcuts": true
