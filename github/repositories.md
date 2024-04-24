@@ -1,36 +1,36 @@
 # Repositories
 
-- https://github.com/linagora/tmail-flutter
-- https://github.com/linagora/linshare-mobile-flutter-app
-- https://github.com/element-hq/element-x-android
-- https://github.com/wireapp/wire-android
-- https://github.com/tailscale/tailscale-android
-- https://github.com/ubuntu/app-center
-- https://github.com/commons-app/apps-android-commons
-- https://github.com/canonical/ubuntu-desktop-installer
-- https://github.com/duckduckgo/Android
-- https://github.com/mozilla-mobile/firefox-android
-- https://github.com/canonical/firmware-updater
-- https://github.com/flipperdevices/Flipper-Android-App
-- https://github.com/home-assistant/android
-- https://github.com/kickstarter/android-oss
-- https://github.com/mobile-dev-inc/maestro
-- https://github.com/MarathonLabs/marathon
-- https://github.com/mastodon/mastodon-android
-- https://github.com/meganz/android
-- https://github.com/nextcloud/android
-- https://github.com/nextcloud/news-android
-- https://github.com/trynoice/android-app
-- https://github.com/nextcloud/notes-android
-- https://github.com/openhab/openhab-android
-- https://github.com/owncloud/android
-- https://github.com/Automattic/pocket-casts-android
-- https://github.com/mozilla-mobile/reference-browser
-- https://github.com/signalapp/Signal-Android
-- https://github.com/nextcloud/talk-android
-- https://github.com/DrKLO/Telegram
-- https://github.com/thunderbird/thunderbird-android
-- https://github.com/widgetbook/widgetbook
-- https://github.com/wikimedia/apps-android-wikipedia
-- https://github.com/wordpress-mobile/WordPress-Android
-- https://github.com/Yubico/yubioath-flutter
+https://github.com/AbdhilahiRWabwire/app_center
+https://github.com/AbdhilahiRWabwire/commons
+https://github.com/AbdhilahiRWabwire/desktop_installer
+https://github.com/AbdhilahiRWabwire/duck_duck_go
+https://github.com/AbdhilahiRWabwire/element-x
+https://github.com/AbdhilahiRWabwire/firefox
+https://github.com/AbdhilahiRWabwire/firmware_updater
+https://github.com/AbdhilahiRWabwire/flipper
+https://github.com/AbdhilahiRWabwire/home_assistant
+https://github.com/AbdhilahiRWabwire/kickstarter
+https://github.com/AbdhilahiRWabwire/linshare
+https://github.com/AbdhilahiRWabwire/maestro
+https://github.com/AbdhilahiRWabwire/marathon
+https://github.com/AbdhilahiRWabwire/mastodon
+https://github.com/AbdhilahiRWabwire/mega_nz
+https://github.com/AbdhilahiRWabwire/news
+https://github.com/AbdhilahiRWabwire/next_cloud
+https://github.com/AbdhilahiRWabwire/noice
+https://github.com/AbdhilahiRWabwire/notes
+https://github.com/AbdhilahiRWabwire/open_hab
+https://github.com/AbdhilahiRWabwire/own_cloud
+https://github.com/AbdhilahiRWabwire/pocket_casts
+https://github.com/AbdhilahiRWabwire/reference_browser
+https://github.com/AbdhilahiRWabwire/signal
+https://github.com/AbdhilahiRWabwire/tailscale
+https://github.com/AbdhilahiRWabwire/talk
+https://github.com/AbdhilahiRWabwire/telegram_x
+https://github.com/AbdhilahiRWabwire/thunderbird
+https://github.com/AbdhilahiRWabwire/tmail
+https://github.com/AbdhilahiRWabwire/widgetbook
+https://github.com/AbdhilahiRWabwire/wikipedia
+https://github.com/AbdhilahiRWabwire/wire
+https://github.com/AbdhilahiRWabwire/word_press
+https://github.com/AbdhilahiRWabwire/yubi_oath

@@ -1,176 +1,172 @@
 # Stars
 
-- https://github.com/open-telemetry/opentelemetry-swift
-- https://github.com/arduino/arduino-fwuploader
-- https://github.com/arduino/arduino-lint
-- https://github.com/arduino/arduino-language-server
-- https://github.com/Kotlin/kotlin-spec 
-- https://github.com/dart-lang/language
-- https://github.com/graphql/graphql-spec
-- https://github.com/material-foundation/material-color-utilities
-- https://github.com/apple/pkl-pantry
-- https://github.com/apple/pkl-swift
-- https://github.com/swift-server/swiftly
-- https://github.com/apple/pkl
-- https://github.com/apache/maven-mvnd
-- https://github.com/bazelbuild/bazel-central-registry
-- https://github.com/bazelbuild/platforms
-- https://github.com/bazelbuild/rules_platform
-- https://github.com/bazelbuild/rules_jvm_external
-- https://github.com/bazelbuild/remote-apis
-- https://github.com/bazelbuild/rules_android_ndk
-- https://github.com/bazelbuild/starlark
-- https://github.com/bazelbuild/rules_foreign_cc
-- https://github.com/bazelbuild/rules_swift
-- https://github.com/bazelbuild/stardoc
-- https://github.com/bazelbuild/rules_pkg
-- https://github.com/bazelbuild/apple_support
-- https://github.com/bazelbuild/rules_java
-- https://github.com/bazelbuild/rules_apple
-- https://github.com/bazelbuild/bazel-skylib
-- https://github.com/bazelbuild/rules_kotlin
-- https://github.com/bazelbuild/rules_go
-- https://github.com/bazelbuild/rules_cc
-- https://github.com/bazelbuild/rules_android
-- https://github.com/bazelbuild/bazel
-- https://github.com/apache/maven
-- https://github.com/microsoft/WindowsAppSDK
-- https://github.com/apple/swift-syntax
-- https://github.com/apple/sourcekit-lsp
-- https://github.com/apple/swift-driver
-- https://github.com/apple/swift-sdk-generator
-- https://github.com/apple/swift-corelibs-foundation
-- https://github.com/apple/swift-corelibs-xctest
-- https://github.com/apple/swift-async-dns-resolver
-- https://github.com/apple/swift-llvm-bindings
-- https://github.com/apple/swift-nio-transport-services
-- https://github.com/apple/swift-tools-support-core
-- https://github.com/apple/swift-distributed-tracing-extras
-- https://github.com/apple/swift-metrics-extras
-- https://github.com/apple/swift-service-context
-- https://github.com/apple/swift-nio-imap
-- https://github.com/apple/swift-package-collection-generator
-- https://github.com/apple/swift-mmio
-- https://github.com/apple/swift-asn1
-- https://github.com/apple/swift-http-structured-headers
-- https://github.com/apple/swift-service-discovery
-- https://github.com/apple/swift-docc-plugin
-- https://github.com/apple/swift-testing
-- https://github.com/apple/swift-atomics
-- https://github.com/apple/swift-docc-symbolkit
-- https://github.com/apple/swift-distributed-tracing
-- https://github.com/apple/swift-nio-extras
-- https://github.com/apple/swift-certificates
-- https://github.com/apple/swift-cluster-membership
-- https://github.com/apple/swift-llbuild2
-- https://github.com/apple/swift-nio-ssh
-- https://github.com/apple/swift-nio-http2
-- https://github.com/apple/swift-distributed-actors
-- https://github.com/apple/swift-metrics
-- https://github.com/apple/swift-http-types
-- https://github.com/swift-server/async-http-client
-- https://github.com/swift-server/webauthn-swift
-- https://github.com/swift-server/webauthn-swift
-- https://github.com/apple/swift-docc
-- https://github.com/apple/swift-system
-- https://github.com/apple/swift-numerics
-- https://github.com/apple/swift-foundation
-- https://github.com/apple/swift-format
-- https://github.com/apple/swift-markdown
-- https://github.com/apple/swift-async-algorithms
-- https://github.com/apple/swift-argument-parser
-- https://github.com/apple/swift-log
-- https://github.com/apple/swift-collections
-- https://github.com/apple/swift-algorithms
-- https://github.com/apple/swift-nio
-- https://github.com/apple/swift-package-manager
-- https://github.com/apple/swift
-- https://github.com/flutter/devtools
-- https://github.com/JetBrains/kotlin-wrappers
-- https://github.com/JetBrains/JetBrainsRuntime
-- https://github.com/androidx/media
-- https://github.com/androidx/constraintlayout
-- https://github.com/android/android-test
-- https://github.com/dart-lang/pub_semver
-- https://github.com/dart-lang/async
-- https://github.com/dart-lang/io
-- https://github.com/dart-lang/convert
-- https://github.com/dart-lang/collection
-- https://github.com/dart-lang/web
-- https://github.com/dart-lang/native
-- https://github.com/dart-lang/tools
-- https://github.com/dart-lang/native_synchronization
-- https://github.com/dart-lang/watcher
-- https://github.com/google/glance-experimental-tools
-- https://github.com/dart-lang/fixnum
-- https://github.com/dart-lang/crypto
-- https://github.com/dart-lang/test_process
-- https://github.com/dart-lang/typed_data
-- https://github.com/dart-lang/stream_transform
-- https://github.com/dart-lang/stream_channel
-- https://github.com/dart-lang/csslib
-- https://github.com/dart-lang/pool
-- https://github.com/dart-lang/matcher
-- https://github.com/dart-lang/boolean_selector
-- https://github.com/dart-lang/yaml
-- https://github.com/dart-lang/yaml_edit
-- https://github.com/dart-lang/term_glyph
-- https://github.com/dart-lang/characters
-- https://github.com/dart-lang/glob
-- https://github.com/dart-lang/http_multi_server
-- https://github.com/dart-lang/os_detect
-- https://github.com/dart-lang/http_parser
-- https://github.com/dart-lang/browser_launcher
-- https://github.com/dart-lang/json_rpc_2
-- https://github.com/dart-lang/string_scanner
-- https://github.com/dart-lang/test_descriptor
-- https://github.com/dart-lang/mime
-- https://github.com/dart-lang/web_socket_channel
-- https://github.com/dart-lang/leak_tracker
-- https://github.com/dart-lang/sse
-- https://github.com/dart-lang/http2
-- https://github.com/dart-lang/pub
-- https://github.com/dart-lang/markdown
-- https://github.com/dart-lang/dartdoc
-- https://github.com/flutter/engine
-- https://github.com/Kotlin/kotlinx.html
-- https://github.com/JetBrains/markdown
-- https://github.com/google/skia
-- https://github.com/Kotlin/kotlinx-atomicfu
-- https://github.com/Kotlin/kotlinx.collections.immutable
-- https://github.com/Kotlin/kdoctor
-- https://github.com/Kotlin/kotlinx-cli
-- https://github.com/Kotlin/dokka
-- https://github.com/Kotlin/kotlinx-io
-- https://github.com/google/horologist
-- https://github.com/JetBrains/lincheck
-- https://github.com/androidx/androidx
-- https://github.com/dart-lang/cli_util
-- https://github.com/Kotlin/kotlinx.serialization
-- https://github.com/Kotlin/kotlinx-datetime
-- https://github.com/Kotlin/kotlinx.coroutines
-- https://github.com/ktorio/ktor
-- https://github.com/JetBrains/compose-multiplatform
-- https://github.com/dart-lang/oauth2
-- https://github.com/dart-lang/path
-- https://github.com/dart-lang/webdev
-- https://github.com/google/vector_math.dart
-- https://github.com/dart-lang/i18n
-- https://github.com/dart-lang/lints
-- https://github.com/dart-lang/stack_trace
-- https://github.com/dart-lang/logging
-- https://github.com/google/json_serializable.dart
-- https://github.com/dart-lang/http
-- https://github.com/material-components/material-components-android
-- https://github.com/dart-lang/setup-dart
-- https://github.com/google/accompanist
-- https://github.com/JetBrains/kotlin
-- https://github.com/dart-lang/args
-- https://github.com/material-foundation/flutter-packages
-- https://github.com/dart-lang/test
-- https://github.com/dart-lang/shelf
-- https://github.com/flutter/packages
-- https://github.com/kubernetes/kubernetes
-- https://github.com/torvalds/linux
-- https://github.com/dart-lang/sdk
-- https://github.com/flutter/flutter
+https://github.com/apple/swift-tools-support-core
+https://github.com/open-telemetry/opentelemetry-swift
+https://github.com/swift-server/webauthn-swift
+https://github.com/swift-server/swift-service-lifecycle
+https://github.com/apple/swift-syntax
+https://github.com/apple/sourcekit-lsp
+https://github.com/apple/swift-driver
+https://github.com/apple/swift-sdk-generator
+https://github.com/apple/swift-corelibs-foundation
+https://github.com/apple/swift-corelibs-xctest
+https://github.com/apple/swift-async-dns-resolver
+https://github.com/apple/swift-llvm-bindings
+https://github.com/apple/swift-nio-transport-services
+https://github.com/graphql/graphql-spec
+https://github.com/bazelbuild/rules_platform
+https://github.com/Kotlin/kotlin-spec
+https://github.com/dart-lang/language
+https://github.com/material-foundation/material-color-utilities
+https://github.com/apple/pkl-pantry
+https://github.com/apple/pkl-swift
+https://github.com/swift-server/swiftly
+https://github.com/apple/pkl
+https://github.com/apache/maven-mvnd
+https://github.com/bazelbuild/rules_jvm_external
+https://github.com/bazelbuild/bazel-central-registry
+https://github.com/bazelbuild/platforms
+https://github.com/bazelbuild/remote-apis
+https://github.com/bazelbuild/rules_android_ndk
+https://github.com/bazelbuild/starlark
+https://github.com/bazelbuild/rules_foreign_cc
+https://github.com/bazelbuild/rules_swift
+https://github.com/bazelbuild/stardoc
+https://github.com/bazelbuild/rules_pkg
+https://github.com/bazelbuild/apple_support
+https://github.com/bazelbuild/rules_java
+https://github.com/bazelbuild/rules_apple
+https://github.com/bazelbuild/bazel-skylib
+https://github.com/bazelbuild/rules_kotlin
+https://github.com/bazelbuild/rules_cc
+https://github.com/bazelbuild/rules_android
+https://github.com/bazelbuild/bazel
+https://github.com/apache/maven
+https://github.com/microsoft/WindowsAppSDK
+https://github.com/apple/swift-metrics-extras
+https://github.com/apple/swift-distributed-tracing-extras
+https://github.com/apple/swift-service-context
+https://github.com/apple/swift-nio-imap
+https://github.com/apple/swift-package-collection-generator
+https://github.com/apple/swift-mmio
+https://github.com/apple/swift-asn1
+https://github.com/apple/swift-http-structured-headers
+https://github.com/apple/swift-docc-symbolkit
+https://github.com/apple/swift-nio-extras
+https://github.com/apple/swift-distributed-tracing
+https://github.com/apple/swift-certificates
+https://github.com/apple/swift-cluster-membership
+https://github.com/apple/swift-service-discovery
+https://github.com/apple/swift-llbuild2
+https://github.com/apple/swift-docc-plugin
+https://github.com/apple/swift-nio-ssh
+https://github.com/apple/swift-nio-http2
+https://github.com/apple/swift-distributed-actors
+https://github.com/apple/swift-metrics
+https://github.com/apple/swift-testing
+https://github.com/apple/swift-http-types
+https://github.com/apple/swift-atomics
+https://github.com/apple/swift-docc
+https://github.com/apple/swift-system
+https://github.com/apple/swift-numerics
+https://github.com/apple/swift-foundation
+https://github.com/apple/swift-format
+https://github.com/apple/swift-markdown
+https://github.com/apple/swift-async-algorithms
+https://github.com/apple/swift-argument-parser
+https://github.com/apple/swift-log
+https://github.com/apple/swift-collections
+https://github.com/apple/swift-algorithms
+https://github.com/apple/swift-nio
+https://github.com/swift-server/async-http-client
+https://github.com/apple/swift
+https://github.com/apple/swift-package-manager
+https://github.com/flutter/devtools
+https://github.com/JetBrains/kotlin-wrappers
+https://github.com/JetBrains/JetBrainsRuntime
+https://github.com/android/android-test
+https://github.com/androidx/constraintlayout
+https://github.com/androidx/media
+https://github.com/dart-lang/pub_semver
+https://github.com/dart-lang/async
+https://github.com/dart-lang/io
+https://github.com/dart-lang/convert
+https://github.com/dart-lang/collection
+https://github.com/dart-lang/web
+https://github.com/dart-lang/native
+https://github.com/dart-lang/tools
+https://github.com/dart-lang/native_synchronization
+https://github.com/dart-lang/watcher
+https://github.com/google/glance-experimental-tools
+https://github.com/dart-lang/fixnum
+https://github.com/dart-lang/crypto
+https://github.com/dart-lang/test_process
+https://github.com/dart-lang/typed_data
+https://github.com/dart-lang/stream_transform
+https://github.com/dart-lang/stream_channel
+https://github.com/dart-lang/csslib
+https://github.com/dart-lang/pool
+https://github.com/dart-lang/matcher
+https://github.com/dart-lang/boolean_selector
+https://github.com/dart-lang/yaml
+https://github.com/dart-lang/yaml_edit
+https://github.com/dart-lang/term_glyph
+https://github.com/dart-lang/characters
+https://github.com/dart-lang/glob
+https://github.com/dart-lang/http_multi_server
+https://github.com/dart-lang/os_detect
+https://github.com/dart-lang/http_parser
+https://github.com/dart-lang/browser_launcher
+https://github.com/dart-lang/json_rpc_2
+https://github.com/dart-lang/string_scanner
+https://github.com/dart-lang/test_descriptor
+https://github.com/dart-lang/mime
+https://github.com/dart-lang/web_socket_channel
+https://github.com/dart-lang/leak_tracker
+https://github.com/dart-lang/sse
+https://github.com/dart-lang/http2
+https://github.com/dart-lang/pub
+https://github.com/dart-lang/markdown
+https://github.com/dart-lang/dartdoc
+https://github.com/flutter/engine
+https://github.com/Kotlin/kotlinx.html
+https://github.com/JetBrains/markdown
+https://github.com/google/skia
+https://github.com/Kotlin/kotlinx-atomicfu
+https://github.com/Kotlin/kotlinx.collections.immutable
+https://github.com/Kotlin/kdoctor
+https://github.com/Kotlin/kotlinx-cli
+https://github.com/Kotlin/dokka
+https://github.com/Kotlin/kotlinx-io
+https://github.com/google/horologist
+https://github.com/JetBrains/lincheck
+https://github.com/androidx/androidx
+https://github.com/dart-lang/cli_util
+https://github.com/Kotlin/kotlinx.serialization
+https://github.com/Kotlin/kotlinx-datetime
+https://github.com/Kotlin/kotlinx.coroutines
+https://github.com/ktorio/ktor
+https://github.com/JetBrains/compose-multiplatform
+https://github.com/dart-lang/oauth2
+https://github.com/dart-lang/path
+https://github.com/dart-lang/webdev
+https://github.com/google/vector_math.dart
+https://github.com/dart-lang/i18n
+https://github.com/dart-lang/lints
+https://github.com/dart-lang/stack_trace
+https://github.com/dart-lang/logging
+https://github.com/google/json_serializable.dart
+https://github.com/dart-lang/http
+https://github.com/material-components/material-components-android
+https://github.com/dart-lang/setup-dart
+https://github.com/google/accompanist
+https://github.com/JetBrains/kotlin
+https://github.com/dart-lang/args
+https://github.com/material-foundation/flutter-packages
+https://github.com/dart-lang/test
+https://github.com/dart-lang/shelf
+https://github.com/git/git
+https://github.com/flutter/packages
+https://github.com/torvalds/linux
+https://github.com/dart-lang/sdk
+https://github.com/flutter/flutter
