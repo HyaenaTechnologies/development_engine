@@ -1,5 +1,7 @@
 # Stars
 
+https://github.com/apple/swift-crypto
+https://github.com/apple/swift-corelibs-libdispatch
 https://github.com/apple/swift-nio-ssl
 https://github.com/apple/swift-tools-support-core
 https://github.com/open-telemetry/opentelemetry-swift
