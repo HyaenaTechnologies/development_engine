@@ -1,5 +1,7 @@
 # Stars
 
+https://github.com/apple/swift-foundation-icu
+https://github.com/apple/swift-llbuild
 https://github.com/apple/swift-crypto
 https://github.com/apple/swift-corelibs-libdispatch
 https://github.com/apple/swift-nio-ssl
@@ -16,7 +18,6 @@ https://github.com/apple/swift-corelibs-xctest
 https://github.com/apple/swift-async-dns-resolver
 https://github.com/apple/swift-llvm-bindings
 https://github.com/apple/swift-nio-transport-services
-https://github.com/bazelbuild/rules_platform
 https://github.com/material-foundation/material-color-utilities
 https://github.com/apple/pkl-pantry
 https://github.com/apple/pkl-swift
@@ -26,7 +27,6 @@ https://github.com/apache/maven-mvnd
 https://github.com/bazelbuild/rules_jvm_external
 https://github.com/bazelbuild/bazel-central-registry
 https://github.com/bazelbuild/platforms
-https://github.com/bazelbuild/remote-apis
 https://github.com/bazelbuild/rules_android_ndk
 https://github.com/bazelbuild/starlark
 https://github.com/bazelbuild/rules_foreign_cc
