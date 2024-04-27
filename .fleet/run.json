@@ -12,14 +12,6 @@
             "name": "Bazel Build",
             "program": "/usr/bin/kotlin/bazel_build/bazel",
             "type": "command"
-        },
-        {
-            "buildParams": [
-                "$USER_HOME$/FleetProjects/development_engine/lib/main.go"
-            ],
-            "goExecPath": "/usr/bin/go/bin/go",
-            "name": "development_engine",
-            "type": "go"
         }
     ]
 }
