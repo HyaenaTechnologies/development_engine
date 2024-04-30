@@ -6,24 +6,12 @@
     "fus.sendAllowed": false,
     "plugins": [
         {
-            "type": "add",
-            "pluginName": "fleet.vim"
-        },
-        {
             "type": "remove",
             "pluginName": "fleet.ai"
         },
         {
             "type": "remove",
             "pluginName": "fleet.aiCompletion"
-        },
-        {
-            "type": "remove",
-            "pluginName": "fleet.dotnet"
-        },
-        {
-            "type": "remove",
-            "pluginName": "fleet.go"
         },
         {
             "type": "remove",
@@ -43,19 +31,7 @@
         },
         {
             "type": "remove",
-            "pluginName": "fleet.php"
-        },
-        {
-            "type": "remove",
-            "pluginName": "fleet.python"
-        },
-        {
-            "type": "remove",
             "pluginName": "fleet.python.ai"
-        },
-        {
-            "type": "remove",
-            "pluginName": "fleet.rust"
         },
         {
             "type": "remove",
@@ -92,7 +68,7 @@
     ],
     "java.runtimes": [
         {
-            "path": "/bin/kotlin/jbr",
+            "path": "/usr/bin/kotlin/jbr",
             "name": "jbr_17"
         }
     ],
