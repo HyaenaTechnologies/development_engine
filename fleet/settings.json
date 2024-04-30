@@ -60,10 +60,6 @@
         {
             "type": "remove",
             "pluginName": "fleet.vue"
-        },
-        {
-            "type": "remove",
-            "pluginName": "fleet.wsl"
         }
     ],
     "java.runtimes": [
