@@ -10,7 +10,7 @@
                 "build"
             ],
             "name": "Bazel Build",
-            "program": "/usr/bin/kotlin/bazel_build/bazel",
+            "program": "/usr/bin/bazel_build/bazel",
             "type": "command"
         }
     ]
