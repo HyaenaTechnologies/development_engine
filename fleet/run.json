@@ -15,13 +15,23 @@
         },
         {
             "args": [
+                "--debug",
                 "--info"
             ],
             "name": "Gradle Build",
             "tasks": [
+                "clean",
                 "build"
             ],
             "type": "gradle"
+        },
+        {
+            "args": [
+                "build"
+            ],
+            "name": "Swift Build",
+            "program": "/usr/bin/swift/bin/swift",
+            "type": "command"
         }
     ]
 }
