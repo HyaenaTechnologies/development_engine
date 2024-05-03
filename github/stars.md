@@ -1,5 +1,6 @@
 # Stars
 
+https://github.com/apple/swift-protobuf
 https://github.com/apple/swift-foundation-icu
 https://github.com/apple/swift-llbuild
 https://github.com/apple/swift-crypto
@@ -159,7 +160,6 @@ https://github.com/google/json_serializable.dart
 https://github.com/dart-lang/http
 https://github.com/material-components/material-components-android
 https://github.com/dart-lang/setup-dart
-https://github.com/google/accompanist
 https://github.com/JetBrains/kotlin
 https://github.com/dart-lang/args
 https://github.com/material-foundation/flutter-packages
