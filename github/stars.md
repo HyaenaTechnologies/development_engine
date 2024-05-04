@@ -1,5 +1,12 @@
 # Stars
 
+https://github.com/google/webcrypto.dart
+https://github.com/google/file.dart
+https://github.com/google/built_collection.dart
+https://github.com/google/tuple.dart
+https://github.com/google/built_value.dart
+https://github.com/google/dart-neats
+https://github.com/google/protobuf.dart
 https://github.com/apple/swift-protobuf
 https://github.com/apple/swift-foundation-icu
 https://github.com/apple/swift-llbuild
@@ -98,7 +105,6 @@ https://github.com/dart-lang/native
 https://github.com/dart-lang/tools
 https://github.com/dart-lang/native_synchronization
 https://github.com/dart-lang/watcher
-https://github.com/google/glance-experimental-tools
 https://github.com/dart-lang/fixnum
 https://github.com/dart-lang/crypto
 https://github.com/dart-lang/test_process
