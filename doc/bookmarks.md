@@ -12,7 +12,7 @@
 - https://swift.org/
 - https://swiftpackageindex.com/
 - https://developer.apple.com/documentation/technologies
-- https://ziglang.org/documentation
+- https://ziglang.org/documentation/master/
 - https://developer.mozilla.org/en-US/docs/Web/HTTP
 - https://m3.material.io/components
 - https://jetbrains.com/help/
