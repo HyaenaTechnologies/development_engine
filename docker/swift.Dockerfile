@@ -4,11 +4,10 @@ WORKDIR /swift_application
 
 COPY ./ ./
 
-RUN swift package -v resolve
-RUN swift package -v show-dependencies
-RUN swift package -v update
-RUN swift run -v ./lib/main.swift
-RUN swift test -v
-RUN swift build -v
+RUN swift package resolve
+RUN swift package update
+RUN swift run ./lib/main.swift
+RUN swift test
+RUN swift build
 
 ENTRYPOINT ["/bin/linux/swift_application"]
