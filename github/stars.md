@@ -1,5 +1,7 @@
 # Stars
 
+https://github.com/ziglang/zig-bootstrap
+https://github.com/ziglang/zig
 https://github.com/google/webcrypto.dart
 https://github.com/google/file.dart
 https://github.com/google/built_collection.dart

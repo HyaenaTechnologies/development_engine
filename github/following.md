@@ -6,6 +6,7 @@ https://github.com/chromium
 https://github.com/apache
 https://github.com/yaml
 https://github.com/gradle
+https://github.com/mozilla
 https://github.com/duckduckgo
 https://github.com/arduino
 https://github.com/w3c
@@ -61,6 +62,7 @@ https://github.com/mozilla-mobile
 https://github.com/ory
 https://github.com/moby
 https://github.com/dependabot
+https://github.com/ziglang
 https://github.com/ktorio
 https://github.com/notaryproject
 https://github.com/android

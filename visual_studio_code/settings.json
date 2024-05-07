@@ -41,5 +41,6 @@
 	"swift.path": "/usr/bin/swift/usr/bin",
 	"telemetry.telemetryLevel": "off",
 	"vscode-kubernetes.kubectl-path": "/usr/bin/hyaena_technologies",
-	"vscode-kubernetes.minikube-path": "/usr/bin/hyaena_technologies"
+	"vscode-kubernetes.minikube-path": "/usr/bin/hyaena_technologies",
+	"zig.path": "/usr/bin/zig"
 }
