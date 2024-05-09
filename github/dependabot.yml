@@ -8,15 +8,6 @@ updates:
       interval: "weekly"
       time: "03:00"
   
-  - package-ecosystem: "gomod"
-    commit-message:
-      prefix: "Go Modules"
-    directory: "/" 
-    schedule:
-      day: "saturday"
-      interval: "weekly"
-      time: "03:00"
-  
   - package-ecosystem: "gradle"
     commit-message:
       prefix: "Gradle"
