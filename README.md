@@ -21,7 +21,7 @@ Development Engine is Open Source Development Environment Configuration
 
 - **_Integrated Development Environments:_** [Android Studio][Android], [Arduino IDE][Arduino], [JetBrains Fleet][Fleet], [Visual Studio Code][VSCode]
 
-- **_Languages:_** [Dart][Dart Language], [Kotlin][Kotlin Language], [Swift][Swift Language], [Zig][Zig Language]
+- **_Languages:_** C, C++, [Dart][Dart Language], [Kotlin][Kotlin Language], Objective-C, [Swift][Swift Language], [Zig (Compiler)][Zig Language]
 
 - **_Version Control:_** [GitHub][GitHub Repositories], [Gitness][Gitness Repositories]
 
