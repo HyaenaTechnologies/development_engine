@@ -1,5 +1,7 @@
 # Stars
 
+https://github.com/libuv/libuv
+https://github.com/curl/curl
 https://github.com/google/webcrypto.dart
 https://github.com/google/file.dart
 https://github.com/google/built_collection.dart

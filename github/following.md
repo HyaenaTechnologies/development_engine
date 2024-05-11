@@ -25,6 +25,7 @@ https://github.com/whatwg
 https://github.com/coreos
 https://github.com/openstax
 https://github.com/sourcegraph
+https://github.com/libuv
 https://github.com/golang
 https://github.com/ubuntu
 https://github.com/docker
@@ -50,6 +51,7 @@ https://github.com/dgraph-io
 https://github.com/containerd
 https://github.com/flutter
 https://github.com/itchio
+https://github.com/curl
 https://github.com/llvm
 https://github.com/material-components
 https://github.com/snapcore
