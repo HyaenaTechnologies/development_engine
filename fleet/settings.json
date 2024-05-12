@@ -62,11 +62,5 @@
             "pluginName": "fleet.vue"
         }
     ],
-    "java.runtimes": [
-        {
-            "path": "/usr/bin/kotlin/jbr",
-            "name": "jbr_17"
-        }
-    ],
     "showShortcuts": true
 }
