@@ -42,5 +42,7 @@
 	"telemetry.telemetryLevel": "off",
 	"vscode-kubernetes.kubectl-path": "/usr/bin/hyaena_technologies",
 	"vscode-kubernetes.minikube-path": "/usr/bin/hyaena_technologies",
-	"zig.path": "/usr/bin/zig"
+	"zig.initialSetupDone": true,
+	"zig.path": "/usr/bin/zig",
+	"zig.zls.enableAutofix": true
 }
