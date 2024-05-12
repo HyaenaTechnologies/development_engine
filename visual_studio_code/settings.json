@@ -3,7 +3,7 @@
 	"bazel.buildifierFixOnFormat": true,
 	"bazel.enableCodeLens": true,
 	"bazel.executable": "bazel",
-	"clangd.path": "/usr/bin/swift/usr/bin/clangd",
+	"clangd.path": "/usr/bin/clangd",
 	"cmake.cmakePath": "/usr/bin",
 	"[dart]": {
 		"editor.formatOnSave": true,
