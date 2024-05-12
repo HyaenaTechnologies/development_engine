@@ -9,14 +9,6 @@
             "args": [
                 "build"
             ],
-            "name": "Bazel Build",
-            "program": "/usr/bin/bazel_build/bazel",
-            "type": "command"
-        },
-        {
-            "args": [
-                "build"
-            ],
             "name": "Swift Build",
             "program": "/usr/bin/swift/usr/bin/swift",
             "type": "command"

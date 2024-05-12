@@ -3,7 +3,6 @@
 # User specific environment
 export PATH=$PATH:/usr/bin
 export PATH=$PATH:/usr/bin/arduino
-export PATH=$PATH:/usr/bin/bazel_build
 export PATH=$PATH:/usr/bin/flutter/bin
 export PATH=$PATH:/usr/bin/flutter/bin/cache/dart-sdk/bin
 export PATH=$PATH:/usr/bin/hyaena_technologies

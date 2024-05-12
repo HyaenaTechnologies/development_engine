@@ -1,5 +1,7 @@
 # Stars
 
+https://github.com/bazelbuild/bazel
+https://github.com/apple/pkl-pantry
 https://github.com/libuv/libuv
 https://github.com/curl/curl
 https://github.com/google/webcrypto.dart
@@ -70,24 +72,8 @@ https://github.com/flutter/flutter
 https://github.com/dart-lang/sdk
 https://github.com/dart-lang/shelf
 https://github.com/dart-lang/test
-https://github.com/apple/pkl-pantry
 https://github.com/apple/pkl-swift
 https://github.com/apple/pkl
-https://github.com/bazelbuild/rules_jvm_external
-https://github.com/bazelbuild/rules_swift
-https://github.com/bazelbuild/rules_foreign_cc
-https://github.com/bazelbuild/starlark
-https://github.com/bazelbuild/rules_android_ndk
-https://github.com/bazelbuild/platforms
-https://github.com/bazelbuild/bazel-central-registry
-https://github.com/bazelbuild/rules_pkg
-https://github.com/bazelbuild/bazel-skylib
-https://github.com/bazelbuild/rules_apple
-https://github.com/bazelbuild/rules_java
-https://github.com/bazelbuild/apple_support
-https://github.com/bazelbuild/rules_kotlin
-https://github.com/bazelbuild/rules_cc
-https://github.com/bazelbuild/rules_android
 https://github.com/ziglang/zig-bootstrap
 https://github.com/ziglang/zig
 https://github.com/apple/swift-protobuf
@@ -111,8 +97,6 @@ https://github.com/apple/swift-llvm-bindings
 https://github.com/apple/swift-nio-transport-services
 https://github.com/swift-server/swiftly
 https://github.com/apache/maven-mvnd
-https://github.com/bazelbuild/stardoc
-https://github.com/bazelbuild/bazel
 https://github.com/apache/maven
 https://github.com/microsoft/WindowsAppSDK
 https://github.com/apple/swift-metrics-extras
