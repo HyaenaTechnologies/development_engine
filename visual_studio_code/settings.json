@@ -43,7 +43,7 @@
 	"vscode-kubernetes.kubectl-path": "/usr/bin/hyaena_technologies",
 	"vscode-kubernetes.minikube-path": "/usr/bin/hyaena_technologies",
 	"zig.initialSetupDone": true,
-	"zig.path": "/usr/bin/zig",
+	"zig.path": "zig",
 	"zig.zls.enableAutofix": true,
-	"zig.zls.path": "/usr/bin/zig"
+	"zig.zls.path": "zls"
 }
