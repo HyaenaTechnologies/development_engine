@@ -9,14 +9,6 @@
             "args": [
                 "build"
             ],
-            "name": "Swift Build",
-            "program": "/usr/bin/swift/usr/bin/swift",
-            "type": "command"
-        },
-        {
-            "args": [
-                "build"
-            ],
             "name": "Zig Build",
             "program": "/usr/bin/zig/zig",
             "type": "command"

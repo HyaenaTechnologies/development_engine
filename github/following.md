@@ -5,6 +5,7 @@
 - https://github.com/chromium
 - https://github.com/apache
 - https://github.com/yaml
+- https://github.com/Kitware
 - https://github.com/gradle
 - https://github.com/mozilla
 - https://github.com/duckduckgo
@@ -50,7 +51,6 @@
 - https://github.com/containerd
 - https://github.com/flutter
 - https://github.com/itchio
-- https://github.com/curl
 - https://github.com/llvm
 - https://github.com/material-components
 - https://github.com/snapcore

@@ -9,10 +9,11 @@
 - https://maven.apache.org/index.html
 - https://maven.google.com/
 - https://developer.android.com/reference
-- https://swift.org/
+- https://www.swift.org/documentation/
 - https://swiftpackageindex.com/
 - https://developer.apple.com/documentation/technologies
-- https://ziglang.org/documentation/master/
+- https://ziglang.org/learn/
+- https://cmake.org/documentation/
 - https://developer.mozilla.org/en-US/docs/Web/HTTP
 - https://m3.material.io/components
 - https://jetbrains.com/help/

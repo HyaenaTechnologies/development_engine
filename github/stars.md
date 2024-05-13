@@ -1,9 +1,9 @@
 # Stars
 
+- https://github.com/Kitware/CMake
 - https://github.com/zigtools/zls
 - https://github.com/bazelbuild/bazel
 - https://github.com/apple/pkl-pantry
-- https://github.com/curl/curl
 - https://github.com/google/webcrypto.dart
 - https://github.com/google/file.dart
 - https://github.com/google/built_collection.dart
