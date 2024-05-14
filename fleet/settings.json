@@ -19,6 +19,26 @@
         },
         {
             "type": "remove",
+            "pluginName": "fleet.grazie"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.grazie.json"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.grazie.kotlin"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.grazie.markdown"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.grazie.yaml"
+        },
+        {
+            "type": "remove",
             "pluginName": "fleet.java.ai"
         },
         {
