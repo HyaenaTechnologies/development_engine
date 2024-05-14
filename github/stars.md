@@ -1,7 +1,10 @@
 # Stars
 
+- https://github.com/google/swiftshader
+- https://github.com/google/angle
+- https://github.com/google/filament
+- https://github.com/apple/pkl-pantry
 - https://github.com/zigtools/zls
-- https://github.com/flutter/engine
 - https://github.com/apple/pkl-swift
 - https://github.com/apple/pkl
 - https://github.com/ziglang/zig-bootstrap
@@ -85,7 +88,6 @@
 - https://github.com/Kotlin/kotlinx-datetime
 - https://github.com/Kotlin/kotlinx.coroutines
 - https://github.com/ktorio/ktor
-- https://github.com/JetBrains/compose-multiplatform
 - https://github.com/material-components/material-components-android
 - https://github.com/JetBrains/kotlin
 - https://github.com/git/git
