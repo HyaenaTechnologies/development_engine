@@ -19,7 +19,6 @@
 - https://github.com/raspberrypi
 - https://github.com/google
 - https://github.com/Kotlin
-- https://github.com/dart-lang
 - https://github.com/GNOME
 - https://github.com/Debian
 - https://github.com/whatwg
@@ -49,7 +48,6 @@
 - https://github.com/unicode-org
 - https://github.com/dgraph-io
 - https://github.com/containerd
-- https://github.com/flutter
 - https://github.com/itchio
 - https://github.com/llvm
 - https://github.com/material-components

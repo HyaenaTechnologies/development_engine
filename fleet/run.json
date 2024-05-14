@@ -7,14 +7,6 @@
         },
         {
             "args": [
-                "compile"
-            ],
-            "name": "Dart Compile",
-            "program": "/usr/bin/flutter/bin/cache/dart-sdk/bin",
-            "type": "command"
-        },
-        {
-            "args": [
                 "--debug",
                 "--info"
             ],

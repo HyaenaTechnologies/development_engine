@@ -1,8 +1,5 @@
 # Boomarks
 
-- https://api.dart.dev/
-- https://pub.dev/
-- https://api.flutter.dev/
 - https://kotlinlang.org/docs/home.html
 - https://bazel.build/reference
 - https://docs.gradle.org/current/userguide/userguide.html
@@ -12,8 +9,10 @@
 - https://www.swift.org/documentation/
 - https://swiftpackageindex.com/
 - https://developer.apple.com/documentation/technologies
+- https://developer.apple.com/library/archive/navigation/
 - https://ziglang.org/learn/
 - https://cmake.org/documentation/
+- https://git-scm.com/doc
 - https://developer.mozilla.org/en-US/docs/Web/HTTP
 - https://m3.material.io/components
 - https://jetbrains.com/help/

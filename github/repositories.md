@@ -1,15 +1,12 @@
 # Repositories
 
-- https://github.com/AbdhilahiRWabwire/app_center
 - https://github.com/AbdhilahiRWabwire/commons
 - https://github.com/AbdhilahiRWabwire/duck_duck_go
 - https://github.com/AbdhilahiRWabwire/element-x
 - https://github.com/AbdhilahiRWabwire/firefox
-- https://github.com/AbdhilahiRWabwire/firmware_updater
 - https://github.com/AbdhilahiRWabwire/flipper
 - https://github.com/AbdhilahiRWabwire/home_assistant
 - https://github.com/AbdhilahiRWabwire/kickstarter
-- https://github.com/AbdhilahiRWabwire/linshare
 - https://github.com/AbdhilahiRWabwire/maestro
 - https://github.com/AbdhilahiRWabwire/marathon
 - https://github.com/AbdhilahiRWabwire/mastodon
@@ -26,11 +23,6 @@
 - https://github.com/AbdhilahiRWabwire/talk
 - https://github.com/AbdhilahiRWabwire/telegram_x
 - https://github.com/AbdhilahiRWabwire/thunderbird
-- https://github.com/AbdhilahiRWabwire/tmail
-- https://github.com/AbdhilahiRWabwire/twake
-- https://github.com/AbdhilahiRWabwire/ubuntu_desktop_provision
-- https://github.com/AbdhilahiRWabwire/widgetbook
 - https://github.com/AbdhilahiRWabwire/wikipedia
 - https://github.com/AbdhilahiRWabwire/wire
 - https://github.com/AbdhilahiRWabwire/word_press
-- https://github.com/AbdhilahiRWabwire/yubi_oath

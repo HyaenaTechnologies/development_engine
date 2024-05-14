@@ -55,10 +55,6 @@
         },
         {
             "type": "remove",
-            "pluginName": "fleet.terraform"
-        },
-        {
-            "type": "remove",
             "pluginName": "fleet.vue"
         }
     ],
