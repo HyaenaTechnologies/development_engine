@@ -19,6 +19,7 @@
 - https://github.com/raspberrypi
 - https://github.com/google
 - https://github.com/Kotlin
+- https://github.com/KhronosGroup
 - https://github.com/GNOME
 - https://github.com/Debian
 - https://github.com/whatwg
@@ -79,4 +80,3 @@
 - https://github.com/advanced-security
 - https://github.com/authzed
 - https://github.com/distribution
-- https://github.com/bazel-contrib
