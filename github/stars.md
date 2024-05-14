@@ -1,5 +1,8 @@
 # Stars
 
+- https://github.com/google/dawn
+- https://github.com/google/draco
+- https://github.com/google/shaderc
 - https://github.com/google/swiftshader
 - https://github.com/google/angle
 - https://github.com/google/filament
@@ -29,7 +32,6 @@
 - https://github.com/apple/swift-llvm-bindings
 - https://github.com/apple/swift-nio-transport-services
 - https://github.com/swift-server/swiftly
-- https://github.com/microsoft/WindowsAppSDK
 - https://github.com/apple/swift-metrics-extras
 - https://github.com/apple/swift-distributed-tracing-extras
 - https://github.com/apple/swift-service-context
