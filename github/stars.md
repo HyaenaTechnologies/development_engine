@@ -1,5 +1,6 @@
 # Stars
 
+- https://github.com/dart-lang/sdk
 - https://github.com/carbon-language/carbon-lang
 - https://github.com/google/dawn
 - https://github.com/google/draco
@@ -9,7 +10,6 @@
 - https://github.com/google/filament
 - https://github.com/zigtools/zls
 - https://github.com/apple/pkl-swift
-- https://github.com/apple/pkl
 - https://github.com/ziglang/zig-bootstrap
 - https://github.com/ziglang/zig
 - https://github.com/apple/swift-protobuf
