@@ -5,7 +5,6 @@
 - https://github.com/chromium
 - https://github.com/apache
 - https://github.com/yaml
-- https://github.com/Kitware
 - https://github.com/gradle
 - https://github.com/mozilla
 - https://github.com/duckduckgo
@@ -26,7 +25,6 @@
 - https://github.com/coreos
 - https://github.com/openstax
 - https://github.com/sourcegraph
-- https://github.com/golang
 - https://github.com/ubuntu
 - https://github.com/docker
 - https://github.com/microsoft
@@ -75,8 +73,10 @@
 - https://github.com/open-telemetry
 - https://github.com/canonical
 - https://github.com/cli
+- https://github.com/carbon-language
 - https://github.com/zigtools
 - https://github.com/zitadel
 - https://github.com/advanced-security
 - https://github.com/authzed
 - https://github.com/distribution
+- https://github.com/bazel-contrib

@@ -1,12 +1,12 @@
 # Stars
 
+- https://github.com/carbon-language/carbon-lang
 - https://github.com/google/dawn
 - https://github.com/google/draco
 - https://github.com/google/shaderc
 - https://github.com/google/swiftshader
 - https://github.com/google/angle
 - https://github.com/google/filament
-- https://github.com/apple/pkl-pantry
 - https://github.com/zigtools/zls
 - https://github.com/apple/pkl-swift
 - https://github.com/apple/pkl
