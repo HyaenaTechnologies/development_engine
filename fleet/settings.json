@@ -59,10 +59,6 @@
         },
         {
             "type": "remove",
-            "pluginName": "fleet.space"
-        },
-        {
-            "type": "remove",
             "pluginName": "fleet.spring.boot"
         },
         {
