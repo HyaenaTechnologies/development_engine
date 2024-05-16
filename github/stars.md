@@ -1,6 +1,6 @@
 # Stars
 
-- https://github.com/google/uri.dart
+- https://github.com/dart-lang/native_synchronization
 - https://github.com/google/json_serializable.dart
 - https://github.com/google/vector_math.dart
 - https://github.com/google/dart-neats
