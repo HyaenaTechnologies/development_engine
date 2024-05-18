@@ -1,9 +1,7 @@
 # Stars
 
 - https://github.com/carbon-language/carbon-lang
-- https://github.com/microsoft/WindowsAppSDK
 - https://github.com/material-foundation/material-color-utilities
-- https://github.com/dart-lang/native_synchronization
 - https://github.com/google/json_serializable.dart
 - https://github.com/google/vector_math.dart
 - https://github.com/google/dart-neats
