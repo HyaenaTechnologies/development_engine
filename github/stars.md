@@ -1,5 +1,8 @@
 # Stars
 
+- https://github.com/carbon-language/carbon-lang
+- https://github.com/microsoft/WindowsAppSDK
+- https://github.com/material-foundation/material-color-utilities
 - https://github.com/dart-lang/native_synchronization
 - https://github.com/google/json_serializable.dart
 - https://github.com/google/vector_math.dart
@@ -59,7 +62,6 @@
 - https://github.com/dart-lang/lints
 - https://github.com/dart-lang/http
 - https://github.com/dart-lang/sdk
-- https://github.com/carbon-language/carbon-lang
 - https://github.com/google/dawn
 - https://github.com/google/draco
 - https://github.com/google/shaderc
