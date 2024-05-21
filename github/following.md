@@ -36,7 +36,6 @@
 - https://github.com/toml-lang
 - https://github.com/rpm-software-management
 - https://github.com/commonmark
-- https://github.com/apple
 - https://github.com/riscv
 - https://github.com/redhat-developer
 - https://github.com/bazelbuild
@@ -56,7 +55,6 @@
 - https://github.com/github-linguist
 - https://github.com/git-lfs
 - https://github.com/Dart-Code
-- https://github.com/swift-server
 - https://github.com/mozilla-mobile
 - https://github.com/ory
 - https://github.com/moby

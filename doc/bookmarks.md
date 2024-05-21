@@ -1,5 +1,6 @@
 # Boomarks
 
+- https://isocpp.org/
 - https://api.dart.dev/
 - https://pub.dev/
 - https://kotlinlang.org/docs/home.html
@@ -8,10 +9,6 @@
 - https://maven.apache.org/index.html
 - https://maven.google.com/
 - https://developer.android.com/reference
-- https://www.swift.org/documentation/
-- https://swiftpackageindex.com/
-- https://developer.apple.com/documentation/technologies
-- https://developer.apple.com/library/archive/navigation/
 - https://ziglang.org/learn/
 - https://git-scm.com/doc
 - https://developer.mozilla.org/en-US/docs/Web/HTTP

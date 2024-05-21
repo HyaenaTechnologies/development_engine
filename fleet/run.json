@@ -7,6 +7,14 @@
         },
         {
             "args": [
+                "compile"
+            ],
+            "name": "Dart Compile",
+            "program": "/usr/bin/dart-sdk/bin/dart",
+            "type": "command"
+        },
+        {
+            "args": [
                 "--debug",
                 "--info"
             ],
@@ -16,14 +24,6 @@
                 "build"
             ],
             "type": "gradle"
-        },
-        {
-            "args": [
-                "build"
-            ],
-            "name": "Swift Build",
-            "program": "/usr/bin/swift/usr/bin/swift",
-            "type": "command"
         },
         {
             "args": [
