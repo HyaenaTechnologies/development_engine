@@ -13,7 +13,6 @@
 - https://github.com/AbdhilahiRWabwire/mega_nz
 - https://github.com/AbdhilahiRWabwire/news
 - https://github.com/AbdhilahiRWabwire/next_cloud
-- https://github.com/AbdhilahiRWabwire/noice
 - https://github.com/AbdhilahiRWabwire/notes
 - https://github.com/AbdhilahiRWabwire/open_hab
 - https://github.com/AbdhilahiRWabwire/own_cloud
@@ -22,7 +21,6 @@
 - https://github.com/AbdhilahiRWabwire/signal
 - https://github.com/AbdhilahiRWabwire/talk
 - https://github.com/AbdhilahiRWabwire/telegram_x
-- https://github.com/AbdhilahiRWabwire/thunderbird
 - https://github.com/AbdhilahiRWabwire/wikipedia
 - https://github.com/AbdhilahiRWabwire/wire
 - https://github.com/AbdhilahiRWabwire/word_press
