@@ -5,8 +5,8 @@
 - https://github.com/chromium
 - https://github.com/apache
 - https://github.com/yaml
+- https://github.com/Kitware
 - https://github.com/gradle
-- https://github.com/mozilla
 - https://github.com/duckduckgo
 - https://github.com/arduino
 - https://github.com/w3c
