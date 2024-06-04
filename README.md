@@ -1,6 +1,6 @@
 [Android]: https://developer.android.com/studio
 [Arduino]: https://arduino.cc/en/software
-[C++ Language]: https://isocpp.org/
+[C Language]: https://isocpp.org/
 [Dart Language]: https://dart.dev/
 [Fleet]: https://jetbrains.com/fleet/
 [Git Repositories]: https://git-scm.com/doc
@@ -17,7 +17,7 @@ Development Engine is Open Source Development Environment Configuration
 
 - **_Integrated Development Environments:_** [Android Studio][Android], [Arduino IDE][Arduino], [JetBrains Fleet][Fleet], [Visual Studio Code][VSCode]
 
-- **_Languages:_** C, [C++][C++ Language], [Dart][Dart Language], [Kotlin][Kotlin Language], [Swift][Swift Language], [Zig][Zig Language]
+- **_Languages:_** [C][C Language], [Dart][Dart Language], [Kotlin][Kotlin Language], [Swift][Swift Language], [Zig][Zig Language]
 
 - **_Version Control:_** [Git][Git Repositories]
 
