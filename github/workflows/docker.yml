@@ -16,7 +16,7 @@ jobs:
     steps:
     
     - name: Checkout Repository
-      uses: actions/checkout@v4.1.6
+      uses: actions/checkout@v4.1.7
       
     - name: Build Docker Image
       run: docker build ./ --file ./Dockerfile --tag amd64/application:latest
