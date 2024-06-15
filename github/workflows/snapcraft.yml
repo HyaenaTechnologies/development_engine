@@ -16,7 +16,7 @@ jobs:
     steps:
     
     - name: Checkout Repository
-      uses: actions/checkout@v4.1.6
+      uses: actions/checkout@v4.1.7
      
     - name: Install Snapcraft
       run: sudo snap install snapcraft --classic
