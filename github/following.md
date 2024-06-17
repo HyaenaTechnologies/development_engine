@@ -7,6 +7,7 @@
 - https://github.com/yaml
 - https://github.com/Kitware
 - https://github.com/gradle
+- https://github.com/mozilla
 - https://github.com/duckduckgo
 - https://github.com/arduino
 - https://github.com/w3c
@@ -37,15 +38,14 @@
 - https://github.com/rpm-software-management
 - https://github.com/commonmark
 - https://github.com/riscv
+- https://github.com/surrealdb
 - https://github.com/redhat-developer
 - https://github.com/bazelbuild
 - https://github.com/brave
 - https://github.com/opencontainers
-- https://github.com/graphql
 - https://github.com/desktop
 - https://github.com/kubernetes
 - https://github.com/unicode-org
-- https://github.com/dgraph-io
 - https://github.com/containerd
 - https://github.com/itchio
 - https://github.com/llvm

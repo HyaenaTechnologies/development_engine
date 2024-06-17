@@ -20,7 +20,6 @@
 - https://raspberrypi.com/documentation/
 - https://landscape.cncf.io/
 - https://landscape.cd.foundation/
-- https://landscape.graphql.org/
 - https://docs.github.com/en
 - https://mathsolver.microsoft.com/en
 - https://openstax.org/subjects/view-all
