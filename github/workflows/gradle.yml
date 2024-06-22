@@ -34,7 +34,7 @@ jobs:
           sub-project/**/versions.properties
 
     - name: Set up Gradle
-      uses: gradle/gradle-build-action@v3.4.1
+      uses: gradle/gradle-build-action@v3.4.2
       with:
         arguments: clean build --debug --info --scan --stacktrace
         gradle-version: 8.6
