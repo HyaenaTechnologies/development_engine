@@ -25,16 +25,9 @@ jobs:
         distribution: 'microsoft'
         cache: gradle
         cache-dependency-path: | # optional
-          sub-project/**/*.gradle*
-          sub-project/**/*.gradle.kts*
-          sub-project/**/gradle-wrapper.properties
-          sub-project/gradle/*.versions.toml
-          sub-project/buildSrc/**/Dependencies.kt
-          sub-project/buildSrc/**/Versions.kt
-          sub-project/**/versions.properties
 
     - name: Set up Gradle
       uses: gradle/gradle-build-action@v3.4.2
       with:
         arguments: clean build --debug --info --scan --stacktrace
-        gradle-version: 8.6
+        gradle-version: 8.8
