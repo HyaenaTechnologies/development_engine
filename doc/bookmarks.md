@@ -2,6 +2,7 @@
 
 - https://isocpp.org/
 - https://cmake.org/documentation/
+- https://learn.microsoft.com/en-us/vcpkg/
 - https://api.dart.dev/
 - https://pub.dev/
 - https://kotlinlang.org/docs/home.html
