@@ -4,7 +4,7 @@
 	"bazel.enableCodeLens": true,
 	"bazel.executable": "bazel",
 	"clangd.path": "/usr/bin/clangd",
-	"cmake.cmakePath": "/usr/bin",
+	"cmake.cmakePath": "/usr/bin/cmake/bin",
 	"[dart]": {
 		"editor.formatOnSave": true,
 		"editor.formatOnType": true,
