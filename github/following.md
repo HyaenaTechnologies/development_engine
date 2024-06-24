@@ -1,5 +1,5 @@
 # Following
-
+ 
 - https://github.com/github
 - https://github.com/git
 - https://github.com/chromium
@@ -68,9 +68,9 @@
 - https://github.com/knative
 - https://github.com/kubernetes-sigs
 - https://github.com/GoogleContainerTools
-- https://github.com/etcd-io
 - https://github.com/actions
 - https://github.com/open-telemetry
+- https://github.com/blender
 - https://github.com/canonical
 - https://github.com/cli
 - https://github.com/carbon-language
