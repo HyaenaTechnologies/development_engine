@@ -1,5 +1,8 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="Directory '…/lib/src/main/kotlin [CalculateEngine.lib.main]'" />
+    <option name="defaultScopeName" value="Directory '…/lib/src/main/kotlin [CalculateEngine.lib.main]'" />
+    <option name="SEARCH_SCOPE" value="Directory '…/lib/src/main/kotlin [CalculateEngine.lib.main]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
