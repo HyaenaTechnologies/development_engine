@@ -1,4 +1,4 @@
-# Following
+- # Following
  
 - https://github.com/github
 - https://github.com/git
@@ -43,6 +43,7 @@
 - https://github.com/riscv
 - https://github.com/surrealdb
 - https://github.com/redhat-developer
+- https://github.com/WebAssembly
 - https://github.com/bazelbuild
 - https://github.com/brave
 - https://github.com/opencontainers
@@ -51,6 +52,7 @@
 - https://github.com/unicode-org
 - https://github.com/containerd
 - https://github.com/itchio
+- https://github.com/thunderbird
 - https://github.com/llvm
 - https://github.com/material-components
 - https://github.com/snapcore
@@ -82,3 +84,4 @@
 - https://github.com/authzed
 - https://github.com/distribution
 - https://github.com/devcontainers
+ 
