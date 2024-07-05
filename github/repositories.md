@@ -1,8 +1,9 @@
 # Repositories
 
+- https://github.com/AbdhilahiRWabwire/bitwarden
 - https://github.com/AbdhilahiRWabwire/commons
 - https://github.com/AbdhilahiRWabwire/duck_duck_go
-- https://github.com/AbdhilahiRWabwire/element-x
+- https://github.com/AbdhilahiRWabwire/element_x
 - https://github.com/AbdhilahiRWabwire/firefox
 - https://github.com/AbdhilahiRWabwire/flipper
 - https://github.com/AbdhilahiRWabwire/home_assistant
@@ -21,6 +22,7 @@
 - https://github.com/AbdhilahiRWabwire/signal
 - https://github.com/AbdhilahiRWabwire/talk
 - https://github.com/AbdhilahiRWabwire/telegram_x
+- https://github.com/AbdhilahiRWabwire/thunderbird
 - https://github.com/AbdhilahiRWabwire/wikipedia
 - https://github.com/AbdhilahiRWabwire/wire
 - https://github.com/AbdhilahiRWabwire/word_press

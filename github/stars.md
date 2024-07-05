@@ -79,8 +79,6 @@
 - https://github.com/google/skia
 - https://github.com/Kotlin/kotlinx-atomicfu
 - https://github.com/Kotlin/kotlinx.collections.immutable
-- https://github.com/Kotlin/kdoctor
-- https://github.com/Kotlin/kotlinx-cli
 - https://github.com/Kotlin/dokka
 - https://github.com/Kotlin/kotlinx-io
 - https://github.com/JetBrains/lincheck
