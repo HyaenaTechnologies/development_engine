@@ -27,7 +27,7 @@ jobs:
         cache-dependency-path: 'sub-project/**/pom.xml' # optional
     
     - name: Set up Dependency Submission
-      uses: advanced-security/maven-dependency-submission-action@v4.0.3
+      uses: advanced-security/maven-dependency-submission-action@v4.1.0
 
     - name: Build Package
       run: mvn -B package --file pom.xml
