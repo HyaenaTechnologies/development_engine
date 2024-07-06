@@ -1,8 +1,7 @@
 # Repositories
 
 - https://github.com/AbdhilahiRWabwire/bitwarden
-- https://github.com/AbdhilahiRWabwire/commons
-- https://github.com/AbdhilahiRWabwire/duck_duck_go
+- https://github.com/AbdhilahiRWabwire/duckduckgo
 - https://github.com/AbdhilahiRWabwire/element_x
 - https://github.com/AbdhilahiRWabwire/firefox
 - https://github.com/AbdhilahiRWabwire/flipper
@@ -11,18 +10,19 @@
 - https://github.com/AbdhilahiRWabwire/maestro
 - https://github.com/AbdhilahiRWabwire/marathon
 - https://github.com/AbdhilahiRWabwire/mastodon
-- https://github.com/AbdhilahiRWabwire/mega_nz
-- https://github.com/AbdhilahiRWabwire/news
-- https://github.com/AbdhilahiRWabwire/next_cloud
-- https://github.com/AbdhilahiRWabwire/notes
-- https://github.com/AbdhilahiRWabwire/open_hab
-- https://github.com/AbdhilahiRWabwire/own_cloud
+- https://github.com/AbdhilahiRWabwire/mega
+- https://github.com/AbdhilahiRWabwire/nextcloud
+- https://github.com/AbdhilahiRWabwire/nextcloud_news
+- https://github.com/AbdhilahiRWabwire/nextcloud_notes
+- https://github.com/AbdhilahiRWabwire/nextcloud_talk
+- https://github.com/AbdhilahiRWabwire/openhab
+- https://github.com/AbdhilahiRWabwire/owncloud
 - https://github.com/AbdhilahiRWabwire/pocket_casts
 - https://github.com/AbdhilahiRWabwire/reference_browser
 - https://github.com/AbdhilahiRWabwire/signal
-- https://github.com/AbdhilahiRWabwire/talk
 - https://github.com/AbdhilahiRWabwire/telegram_x
 - https://github.com/AbdhilahiRWabwire/thunderbird
+- https://github.com/AbdhilahiRWabwire/wikimedia_commons
 - https://github.com/AbdhilahiRWabwire/wikipedia
 - https://github.com/AbdhilahiRWabwire/wire
-- https://github.com/AbdhilahiRWabwire/word_press
+- https://github.com/AbdhilahiRWabwire/wordpress
