@@ -8,7 +8,6 @@
 - https://api.dart.dev/
 - https://pub.dev/
 - https://kotlinlang.org/docs/home.html
-- https://bazel.build/reference
 - https://docs.gradle.org/current/userguide/userguide.html
 - https://maven.apache.org/index.html
 - https://maven.google.com/
