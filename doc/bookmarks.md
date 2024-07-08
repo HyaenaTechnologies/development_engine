@@ -1,5 +1,7 @@
 # Boomarks
 
+- https://publications.opengroup.org/
+- https://www.gnu.org/software/libc/
 - https://isocpp.org/
 - https://cmake.org/documentation/
 - https://learn.microsoft.com/en-us/vcpkg/
