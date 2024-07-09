@@ -1,5 +1,4 @@
 {
-	"clangd.path": "/usr/bin/clangd",
 	"cmake.cmakePath": "/usr/bin/cmake/bin",
 	"[dart]": {
 		"editor.formatOnSave": true,
