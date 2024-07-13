@@ -5,8 +5,6 @@
 - https://gcc.gnu.org/onlinedocs/
 - https://llvm.org/docs/
 - https://isocpp.org/
-- https://cmake.org/documentation/
-- https://learn.microsoft.com/en-us/vcpkg/
 - https://api.dart.dev/
 - https://pub.dev/
 - https://kotlinlang.org/docs/home.html
@@ -23,7 +21,6 @@
 - https://arduino.cc/reference/en/
 - https://raspberrypi.com/documentation/
 - https://landscape.cncf.io/
-- https://landscape.cd.foundation/
 - https://docs.github.com/en
 - https://mathsolver.microsoft.com/en
 - https://openstax.org/subjects/view-all

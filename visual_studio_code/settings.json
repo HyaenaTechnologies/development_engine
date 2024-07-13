@@ -1,5 +1,5 @@
 {
-	"cmake.cmakePath": "/usr/bin/cmake/bin",
+	"cmake.cmakePath": "/usr/bin/cmake",
 	"[dart]": {
 		"editor.formatOnSave": true,
 		"editor.formatOnType": true,

@@ -1,12 +1,11 @@
 # Following
- 
+
 - https://github.com/github
 - https://github.com/git
 - https://github.com/chromium
 - https://github.com/apache
 - https://github.com/cplusplus
 - https://github.com/yaml
-- https://github.com/Kitware
 - https://github.com/gradle
 - https://github.com/mozilla
 - https://github.com/duckduckgo
@@ -32,7 +31,6 @@
 - https://github.com/docker
 - https://github.com/containers
 - https://github.com/microsoft
-- https://github.com/neovim
 - https://github.com/androidx
 - https://github.com/grafana
 - https://github.com/mdn
@@ -45,7 +43,6 @@
 - https://github.com/surrealdb
 - https://github.com/redhat-developer
 - https://github.com/WebAssembly
-- https://github.com/vim
 - https://github.com/brave
 - https://github.com/opencontainers
 - https://github.com/desktop
@@ -79,6 +76,7 @@
 - https://github.com/cli
 - https://github.com/carbon-language
 - https://github.com/zigtools
+- https://github.com/helix-editor
 - https://github.com/zitadel
 - https://github.com/advanced-security
 - https://github.com/authzed
