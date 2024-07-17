@@ -15,6 +15,18 @@
         },
         {
             "type": "remove",
+            "pluginName": "fleet.aiCompletion.java"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.aiCompletion.python"
+        },
+        {
+            "type": "remove",
+            "pluginName": "fleet.emmet"
+        },
+        {
+            "type": "remove",
             "pluginName": "fleet.go.ai"
         },
         {

@@ -36,5 +36,5 @@
 	"zig.formattingProvider": "off",
 	"zig.initialSetupDone": true,
 	"zig.path": "zig",
-	"zig.zls.path": "zls",
+	"zig.zls.path": "zls"
 }
