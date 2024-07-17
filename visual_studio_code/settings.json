@@ -13,6 +13,7 @@
 	"debug.internalConsoleOptions": "openOnSessionStart",
 	"debug.openDebug": "openOnDebugBreak",
 	"diffEditor.experimental.showMoves": true,
+	"diffEditor.ignoreTrimWhitespace": false,
 	"diffEditor.renderSideBySide": false,
 	"docker.dockerPath": "/usr/bin",
 	"git.autofetch": true,
@@ -35,5 +36,5 @@
 	"zig.formattingProvider": "off",
 	"zig.initialSetupDone": true,
 	"zig.path": "zig",
-	"zig.zls.path": "zls"
+	"zig.zls.path": "zls",
 }
