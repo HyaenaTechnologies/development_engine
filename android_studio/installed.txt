@@ -1,0 +1,15 @@
+SerialPortMonitor
+com.redhat.devtools.intellij.telemetry
+com.jetbrains.webstorm.web-assembly-plugin
+com.intellij.commander
+Dart
+org.intellij.plugins.hcl
+idea.plugin.protoeditor
+name.kropp.intellij.makefile
+com.redhat.devtools.intellij.kubernetes
+Docker
+com.redhat.devtools.intellij.knative
+com.jetbrains.packagesearch.intellij-plugin
+com.jetbrains.kmm
+org.jetbrains.compose.desktop.ide
+io.flutter
