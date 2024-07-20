@@ -27,7 +27,7 @@ jobs:
         cache-dependency-path: | # optional
 
     - name: Set up Gradle
-      uses: gradle/gradle-build-action@v3.4.2
+      uses: gradle/gradle-build-action@v3.5.0
       with:
         arguments: clean build --debug --info --scan --stacktrace
         gradle-version: 8.8
