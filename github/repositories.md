@@ -7,7 +7,6 @@
 - https://github.com/AbdhilahiRWabwire/flipper
 - https://github.com/AbdhilahiRWabwire/home_assistant
 - https://github.com/AbdhilahiRWabwire/kickstarter
-- https://github.com/AbdhilahiRWabwire/maestro
 - https://github.com/AbdhilahiRWabwire/mastodon
 - https://github.com/AbdhilahiRWabwire/mega
 - https://github.com/AbdhilahiRWabwire/nextcloud
