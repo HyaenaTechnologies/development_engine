@@ -26,7 +26,6 @@
 - https://github.com/whatwg
 - https://github.com/coreos
 - https://github.com/openstax
-- https://github.com/sourcegraph
 - https://github.com/ubuntu
 - https://github.com/docker
 - https://github.com/containers
@@ -66,7 +65,6 @@
 - https://github.com/notaryproject
 - https://github.com/android
 - https://github.com/harness
-- https://github.com/knative
 - https://github.com/kubernetes-sigs
 - https://github.com/GoogleContainerTools
 - https://github.com/actions

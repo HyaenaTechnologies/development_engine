@@ -8,7 +8,6 @@ idea.plugin.protoeditor
 name.kropp.intellij.makefile
 com.redhat.devtools.intellij.kubernetes
 Docker
-com.redhat.devtools.intellij.knative
 com.jetbrains.packagesearch.intellij-plugin
 com.jetbrains.kmm
 org.jetbrains.compose.desktop.ide
