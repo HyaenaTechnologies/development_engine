@@ -4,8 +4,6 @@
 - https://github.com/ziglang/zig
 - https://github.com/dart-lang/sdk
 - https://github.com/JetBrains/kotlin
-- https://github.com/google/flatbuffers
-- https://github.com/google/glog
 - https://github.com/google/json_serializable.dart
 - https://github.com/google/vector_math.dart
 - https://github.com/google/dart-neats

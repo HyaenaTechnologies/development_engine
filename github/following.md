@@ -48,10 +48,10 @@
 - https://github.com/kubernetes
 - https://github.com/unicode-org
 - https://github.com/containerd
+- https://github.com/KDE
 - https://github.com/itchio
 - https://github.com/llvm
 - https://github.com/material-components
-- https://github.com/snapcore
 - https://github.com/material-foundation
 - https://github.com/github-linguist
 - https://github.com/git-lfs
